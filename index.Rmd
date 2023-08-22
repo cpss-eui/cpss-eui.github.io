@@ -1,0 +1,111 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+library(tidyverse)
+```
+
+The Comparative Politics Seminar Series in the Department of Political and Social Sciences at the European University Institute is a venue for the presentation of work in progress by scholars from across the subfield of comparative politics. 
+
+It usually takes place on Thursdays from 17:00 to 18:30 at Seminar Room 2, in Badia Fiesolana (Fiesole). See below or sync the [calendar](webcal://raw.githubusercontent.com/danielhurquijo/comparative-politics-seminar-series/main/events.ics?token=GHSAT0AAAAAACFEVOTAITIBGWCGEPBMNKD6ZG5ADIQ) for the exact location for each meeting. The event is in-person and on-line. Registration is required for online attendance. Attendance is generally restricted to members of the EUI community.
+
+The series is organized by [Elias Dinas](https://www.eui.eu/people?id=elias-dinas), [Miriam Golden](https://www.miriamgolden.com/), [Simon Hix](https://simonhix.com//), and [Filip Kostelka](https://filipkostelka.com/), with support by [Daniel Urquijo](https://www.eui.eu/people?id=daniel-urquijo) and [Pau Grau](https://paugrau.cat/).
+
+
+# Upcoming Speakers
+
+## Speakers during Fall 2023
+
+```{r}
+df <- readxl::read_excel("../../comparative-politics-seminar-series/speakers.xlsx",
+                         sheet = 2)%>%
+  rename_all(., .funs=tolower)%>%
+  rename_all(., .funs=str_trim)%>%
+  mutate(start_date=str_replace_all(`start date`, "-", ""),
+         end_date=str_replace_all(`end date`, "-", ""),
+         title=case_when(title!="0"~title,
+                         T~"Title TBD"),
+         abstract=case_when(abstract!="0"~abstract,
+                            T~"Abstract TBD"),
+         location=case_when(!str_detect(location, "Seminar Room 2")~"Location TBD",
+                            T~location),
+         subject=str_remove(subject, "CPSS: "),
+         subject=ifelse(is.na(subject), "TBD", subject))%>%
+  filter(!is.na(start_date))
+```
+
+
+```{r, results='asis'}
+df_ <- df%>%filter(term=="Fall")
+for (i in 1:nrow(df_)) {
+  weekday <- strftime(df_$`start date`[i],'%A')
+  year <- year(df_$`start date`[i])
+  start_month <- month(lubridate::as_date(df_$start_date[i]), label = TRUE, abbr = FALSE)
+  start_day <- day(lubridate::as_date(df_$start_date[i]))
+  subject <- df_$subject[i]
+  url <- df_$url[i]
+  title <- df_$title[i]
+  abstract <- df_$abstract[i]
+  location <- df_$location[i]
+  website <- df_$website[i]
+  
+  cat(paste0(weekday, " ", start_day, " ", start_month, " ", year, " | ", location,
+             	"<p><strong><a href='", website, "'>", subject, "</a></strong></p>\n\n",
+             "**", title, "**\n\n",
+             "<details><summary>Abstract:</summary><p>\n\n", abstract, "</p></details>\n\n",
+             "<hr>\n\n"))
+}
+```
+
+## Speakers during Winter 2024
+
+```{r, results='asis'}
+df_ <- df%>%filter(term=="Winter")
+
+for (i in 1:nrow(df_)) {
+  weekday <- strftime(df_$`start date`[i],'%A')
+  year <- year(df_$`start date`[i])
+  start_month <- month(lubridate::as_date(df_$start_date[i]), label = TRUE, abbr = FALSE)
+  start_day <- day(lubridate::as_date(df_$start_date[i]))
+  subject <- df_$subject[i]
+  url <- df_$url[i]
+  title <- df_$title[i]
+  abstract <- df_$abstract[i]
+  location <- df_$location[i]
+  website <- df_$website[i]
+  
+  cat(paste0(weekday, " ", start_day, " ", start_month, " ", year, " | ", location,
+             	"<p><strong><a href='", website, "'>", subject, "</a></strong></p>\n\n",
+             "**", title, "**\n\n",
+             "<details><summary>Abstract:</summary><p>", abstract, "</p></details>\n\n",
+             "<hr>\n\n"))
+}
+```
+
+## Speakers during Spring 2024
+
+```{r, results='asis'}
+df_ <- df%>%filter(term=="Spring")
+
+for (i in 1:nrow(df_)) {
+  weekday <- strftime(df_$`start date`[i],'%A')
+  year <- year(df_$`start date`[i])
+  start_month <- month(lubridate::as_date(df_$start_date[i]), label = TRUE, abbr = FALSE)
+  start_day <- day(lubridate::as_date(df_$start_date[i]))
+  subject <- df_$subject[i]
+  url <- df_$url[i]
+  title <- df_$title[i]
+  abstract <- df_$abstract[i]
+  location <- df_$location[i]
+  website <- df_$website[i]
+  
+  cat(paste0(weekday, " ", start_day, " ", start_month, " ", year, " | ", location,
+             	"<p><strong><a href='", website, "'>", subject, "</a></strong></p>\n\n",
+             "**", title, "**\n\n",
+             "<details><summary>Abstract:</summary><p>", abstract, "</p></details>\n\n",
+             "<hr>\n\n"))
+}
+
+```
