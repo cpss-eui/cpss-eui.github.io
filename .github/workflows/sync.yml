@@ -1,0 +1,30 @@
+name: Sync Private to Public
+
+on:
+  push:
+    branches:
+      - main  # Adjust to your main branch name
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.email "cpss.eui@gmail.com"
+          git config --global user.name "cpss-eui"
+
+      - name: Push to Public Repo
+        run: |
+          git remote add public-repo https://github.com/cpss-eui/cpss-eui.github.io.git
+          git pull public-repo main  # Pull changes from the public repo
+          cp -r website/* .  # Copy content from the private 'website' folder
+          git add .
+          git commit -m "Sync changes from private 'website' folder"
+          git push public-repo main  # Push changes to the public repo
+        env:
+          PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
