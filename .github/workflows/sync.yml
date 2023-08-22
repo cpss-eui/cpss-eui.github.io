@@ -22,7 +22,7 @@ jobs:
         run: |
           git remote add public-repo https://github.com/cpss-eui/cpss-eui.github.io.git
           git pull public-repo main  # Pull changes from the public repo
-          cp -r website/* .  # Copy content from the private 'website' folder
+          cp -r website/_site/* .  # Copy content from the private 'website' folder
           git add .
           git commit -m "Sync changes from private 'website' folder"
           git push public-repo main  # Push changes to the public repo
