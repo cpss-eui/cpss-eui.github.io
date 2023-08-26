@@ -114,21 +114,3 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
 
-### To create collapsible sections (for abstracts)
-https://dev.to/jordanfinners/creating-a-collapsible-section-with-nothing-but-html-4ip9
-<details>
-  <summary>
-    Abstract
-  </summary>
-  <p>
-    Content
-  </p>
-</details>
-
-For example, getting inspired from the lse (https://sticerd.lse.ac.uk/_new/events/Political-Science-and-Political-Economy/):
-	<p><strong>Jim Robinson (University of Chicago)</strong></p>
-	<p class="mt-2 mb-2">Tuesday 28 March 2023 14:00 - 15:30 | Seminar Room 2, Badia Fiesolana</p><details><summary><strong>Fear and Dreams:</strong></summary>
-<p>Participatory theories of democracy posit that participating in the political process transforms individuals into better democratic citizens. But empirical research on the individual-level effects of participation focuses overwhelmingly on voting, with mixed results and debate about the mechanisms. This study focuses on a different form of political participation and leverages a natural experiment in Peru to address the challenge posed by certain types of individuals self-selecting into political participation. Prior to every election, Peruvian officials randomly select citizens to serve as poll monitors on Election Day. Following the January 2020 congressional elections, I conducted a two-wave panel survey of these randomly selected poll monitors and also randomly selected alternates. I find that participation as a poll worker increases an individual’s senses of empowerment and efficacy, but does not provoke political interest or knowledge. I also find that participation boosts support for and trust in democratic institutions, especially elections, and that it fosters future civic participation. I find some evidence that these effects endure, at least for several months, although my follow-up estimates are less precise. Consistent with participatory theories of democracy, participation of this kind does shape citizens.</p>
-
-</details>
-	<hr> 

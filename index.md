@@ -5,7 +5,7 @@ subfield of comparative politics.
 
 It usually takes place on Thursdays from 17:00 to 18:30 at Seminar Room
 2, in Badia Fiesolana (Fiesole). See below or sync the
-[calendar](webcal://raw.githubusercontent.com/danielhurquijo/comparative-politics-seminar-series/main/events.ics?token=GHSAT0AAAAAACFEVOTAITIBGWCGEPBMNKD6ZG5ADIQ)
+[calendar](webcal://raw.githubusercontent.com/danielhurquijo/comparative-politics-seminar-series/main/calendar/events.ics?token=GHSAT0AAAAAACFEVOTAKGBZDAU3P5BVPBNSZG6HANQ)
 for the exact location for each meeting. The event is in-person and
 on-line. Registration is required for online attendance. Attendance is
 generally restricted to members of the EUI community.
@@ -22,13 +22,13 @@ Grau](https://paugrau.cat/).
 
 ## Speakers during Fall 2023
 
-Thursday 5 October 2023 | Seminar Room 2
+Thursday 05 October 2023 | Seminar Room 2
 <p>
 <strong><a href='https://www.hangartner.net/'>Dominik
 Hangartner</a></strong>
 </p>
 
-**Title TBD**
+**We don’t have a title yet (demo)**
 
 <details>
 <summary>
@@ -87,7 +87,7 @@ Abstract TBD
 </p>
 </details>
 <hr>
-Thursday 2 November 2023 | Seminar Room 2
+Thursday 02 November 2023 | Seminar Room 2
 <p>
 <strong><a href='http://gloriagennaro.rbind.io/'>Gloria
 Gennaro</a></strong>
@@ -104,20 +104,42 @@ Abstract TBD
 </p>
 </details>
 <hr>
-Thursday 9 November 2023 | Location TBD
+Thursday 09 November 2023 | Location TBD
 <p>
 <strong><a href='https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1457929'>Natalia
 Garbiras-Diaz</a></strong>
 </p>
 
-**Title TBD**
+**Declared versus revealed support for democracy: Survey and real-world
+evidence in Latin America (with Loreto Cox, Pontificia Universidad
+Católica de Chile)**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-Abstract TBD
+Public support for democracy is believed to serve as a safeguard against
+undemocratic behavior by politicians. Most of our measures of support
+for democracy come from public opinion surveys, based on questions that
+may suffer from social desirability bias and overlook the trade-offs
+that citizens face when choosing candidates. In 2022, we conducted rich
+two-wave panel surveys in Colombia and Peru. The baseline covered how
+citizens understand and value democracy in the abstract, and included a
+conjoint experiment, in which one of the manipulated attributes was
+whether the candidate adopted anti-democratic positions, following
+Graham and Svolik (2020). Shortly after, in December 2022, former Peru’s
+president, Pedro Castillo, attempted a failed self-coup and was then
+impeached by Congress. We compare (1) declared support for democracy in
+baseline questions with (2) revealed democratic commitment when facing
+trade-offs, as found in the conjoint, and (3) de facto support for
+democracy leveraging Castillo’s (real-world) anti-democratic move. We
+find that citizens behave slightly more democratically than a coin flip,
+even those who are declared democrats. Moreover, declared democratic
+attitudes weakly predict revealed democratic commitment. Citizens trade
+in democracy for ideological proximity and see real-world democratic
+deviations through partisan lenses. Our findings suggest a limited role
+of citizens as a democratic check, especially in polarized democracies.
 </p>
 </details>
 <hr>
@@ -140,7 +162,7 @@ Abstract TBD
 <hr>
 Thursday 23 November 2023 | Seminar Room 2
 <p>
-<strong><a href='NA'>TBD</a></strong>
+<strong><a href='https://emmylindstam.com'>Emmy Lindstam</a></strong>
 </p>
 
 **Title TBD**
@@ -171,7 +193,7 @@ Abstract TBD
 </p>
 </details>
 <hr>
-Thursday 7 December 2023 | Seminar Room 2
+Thursday 07 December 2023 | Seminar Room 2
 <p>
 <strong><a href='https://www.albertodiazcayeros.org/'>Alberto
 Diaz-Cayeros</a></strong>
@@ -259,7 +281,7 @@ Abstract TBD
 </p>
 </details>
 <hr>
-Thursday 1 February 2024 | Seminar Room 2
+Thursday 01 February 2024 | Seminar Room 2
 <p>
 <strong><a href='https://mathildeemeriau.com/'>Mathilde
 Emeriau</a></strong>
@@ -293,7 +315,7 @@ these findings
 </p>
 </details>
 <hr>
-Thursday 8 February 2024 | Seminar Room 2
+Thursday 08 February 2024 | Seminar Room 2
 <p>
 <strong><a href='https://maxschaub.eu/index.html'>Max
 Schaub</a></strong>
@@ -360,7 +382,7 @@ Abstract TBD
 </p>
 </details>
 <hr>
-Thursday 7 March 2024 | Seminar Room 2
+Thursday 07 March 2024 | Seminar Room 2
 <p>
 <strong><a href='https://www.jon.fiva.no'>Jon Fiva</a></strong>
 </p>
@@ -395,7 +417,7 @@ Abstract TBD
 
 ## Speakers during Spring 2024
 
-Thursday 4 April 2024 | Seminar Room 2
+Thursday 04 April 2024 | Seminar Room 2
 <p>
 <strong><a href='NA'>TBD</a></strong>
 </p>
@@ -461,7 +483,7 @@ Abstract TBD
 </p>
 </details>
 <hr>
-Thursday 2 May 2024 | Seminar Room 2
+Thursday 02 May 2024 | Seminar Room 2
 <p>
 <strong><a href='NA'>TBD</a></strong>
 </p>
@@ -477,7 +499,7 @@ Abstract TBD
 </p>
 </details>
 <hr>
-Thursday 9 May 2024 | Seminar Room 2
+Thursday 09 May 2024 | Seminar Room 2
 <p>
 <strong><a href='https://rubrica.unige.it/personale/UkJHX1lu)'>Andrea
 Vindigni</a></strong>
