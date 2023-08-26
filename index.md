@@ -18,9 +18,11 @@ Kostelka](https://filipkostelka.com/), with support by [Daniel
 Urquijo](https://www.eui.eu/people?id=daniel-urquijo) and [Pau
 Grau](https://paugrau.cat/).
 
-# Upcoming Speakers
+Upcoming Speakers
+=================
 
-## Speakers during Fall 2023
+Speakers during Fall 2023
+-------------------------
 
 Thursday 05 October 2023 | Seminar Room 2
 <p>
@@ -28,12 +30,10 @@ Thursday 05 October 2023 | Seminar Room 2
 Hangartner</a></strong>
 </p>
 
-**We don’t have a title yet (demo)**
+**Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -47,9 +47,7 @@ Thursday 12 October 2023 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -63,9 +61,7 @@ Thursday 19 October 2023 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -79,9 +75,7 @@ Thursday 26 October 2023 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -96,9 +90,7 @@ Gennaro</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -115,9 +107,7 @@ evidence in Latin America (with Loreto Cox, Pontificia Universidad
 Católica de Chile)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Public support for democracy is believed to serve as a safeguard against
 undemocratic behavior by politicians. Most of our measures of support
@@ -152,9 +142,7 @@ Berliner</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -168,9 +156,7 @@ Thursday 23 November 2023 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -185,9 +171,7 @@ Humphreys</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -202,16 +186,15 @@ Diaz-Cayeros</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
 </details>
 <hr>
 
-## Speakers during Winter 2024
+Speakers during Winter 2024
+---------------------------
 
 Thursday 11 January 2024 | Seminar Room 2
 <p>
@@ -221,9 +204,7 @@ Thursday 11 January 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -238,9 +219,7 @@ Thursday 18 January 2024 | Seminar Room 2
 Worker**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Participatory theories of democracy posit that participating in the
 political process transforms individuals into better democratic
@@ -273,9 +252,7 @@ Thursday 25 January 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -291,9 +268,7 @@ Emeriau</a></strong>
 from 19th century France (with Stephane Wolton, LSE)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 How do immigrants respond to xenophobic violence? We study how Italian
 immigrants responded to a wave of anti-Italian violence triggered by the
@@ -324,9 +299,7 @@ Schaub</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -340,9 +313,7 @@ Thursday 15 February 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -357,9 +328,7 @@ Arceneaux</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -374,9 +343,7 @@ Becher</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -390,9 +357,7 @@ Thursday 07 March 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -406,16 +371,15 @@ Thursday 14 March 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
 </details>
 <hr>
 
-## Speakers during Spring 2024
+Speakers during Spring 2024
+---------------------------
 
 Thursday 04 April 2024 | Seminar Room 2
 <p>
@@ -425,9 +389,7 @@ Thursday 04 April 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -441,9 +403,7 @@ Thursday 11 April 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -458,9 +418,7 @@ Tertytchnaya</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -475,9 +433,7 @@ Bernhard</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -491,9 +447,7 @@ Thursday 02 May 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -508,9 +462,7 @@ Vindigni</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -524,9 +476,7 @@ Thursday 16 May 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -540,9 +490,7 @@ Thursday 23 May 2024 | Location TBD
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -557,9 +505,7 @@ Sands</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
