@@ -24,7 +24,7 @@ The series is organized by [Elias Dinas](https://www.eui.eu/people?id=elias-dina
 ## Speakers during Fall 2023
 
 ```{r}
-df <- readxl::read_excel("../../comparative-politics-seminar-series/speakers.xlsx", sheet = 2)
+df <- readxl::read_excel("../comparative-politics-seminar-series/speakers.xlsx", sheet = 2)
 
 colnames(df) <- tolower(colnames(df))
 colnames(df) <- lapply(colnames(df), function(x) gsub("^\\s+|\\s+$", "", x))
