@@ -5,7 +5,7 @@ subfield of comparative politics.
 
 It usually takes place on Thursdays from 17:00 to 18:30 at Seminar Room
 2, in Badia Fiesolana (Fiesole). See below or sync the
-[calendar](webcal://raw.githubusercontent.com/cpss-eui/comparative-politics-seminar-series/main/calendar/events.ics?token=GHSAT0AAAAAACFEVOTAFQM5YUYI3GU7YSPCZHKGOTQ)
+[calendar](webcal://raw.githubusercontent.com/cpss-eui/cpss-eui.github.io/main/events.ics)
 for the exact location for each meeting. The event is in-person and
 on-line. Registration is required for online attendance. Attendance is
 generally restricted to members of the EUI community.
