@@ -72,12 +72,29 @@ Thursday 26 October 2023 | Seminar Room 2
 <strong><a href='https://thomaskurer.net/'>Thomas Kurer</a></strong>
 </p>
 
-**Title TBD**
+**Chasing Opportunities in the Knowledge Economy: Moving Places, Moving
+Politics? (co-authored with Valentina Consiglio)**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+The rise of the knowledge economy has profoundly transformed the
+political landscape. Thriving urban knowledge hubs have become almost
+synonymous with cosmopolitan environments whereas lagging-behind areas
+are characterized by stronger anti-establishment sentiments. We advance
+the literature with a more dynamic perspective by studying individual
+relocations to examine the political consequences of the strong pull
+into destinations that are typically more progressive than most places
+of origin. We propose an innovative measure of local opportunity at the
+NUTS-3 level in Germany and merge this “opportunity map” with
+individual-level panel data to assess how relocations into knowledge
+hubs affect political behavior. In line with a mechanism of
+assimilation, we find strong and consistent evidence that moving to
+opportunity fosters political integration and shifts political
+preferences to the left. Our findings suggest that the ongoing movement
+of populations from rural regions to prosperous cities may come with a
+self-reinforcing political dynamic that creates a strong and lasting
+progressive coalition in the mid- and long-term.
 </p>
 </details>
 <hr>
