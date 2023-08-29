@@ -498,8 +498,7 @@ Abstract TBD
 <hr>
 Thursday 30 May 2024 | Seminar Room 2
 <p>
-<strong><a href='https://www.melissasands.org/'>Melissa
-Sands</a></strong>
+<strong><a href='https://melissasands.org/'>Melissa Sands</a></strong>
 </p>
 
 **Title TBD**
