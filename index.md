@@ -73,7 +73,7 @@ Thursday 26 October 2023 | Seminar Room 2
 </p>
 
 **Chasing Opportunities in the Knowledge Economy: Moving Places, Moving
-Politics? (co-authored with Valentina Consiglio)**
+Politics? (with Valentina Consiglio, University of Konstanz)**
 
 <details>
 <summary>Abstract:</summary>
