@@ -70,7 +70,8 @@ independent of occupational status.
 <hr>
 Thursday 19 October 2023 | Seminar Room 2
 <p>
-<strong><a href='https://bmagaloni.com/'>Beatriz Magaloni</a></strong>
+<strong><a href='https://www.albertodiazcayeros.org/'>Alberto
+Diaz-Cayeros</a></strong>
 </p>
 
 **Title TBD**
@@ -211,8 +212,7 @@ Abstract TBD
 <hr>
 Thursday 07 December 2023 | Seminar Room 2
 <p>
-<strong><a href='https://www.albertodiazcayeros.org/'>Alberto
-Diaz-Cayeros</a></strong>
+<strong><a href='https://bmagaloni.com/'>Beatriz Magaloni</a></strong>
 </p>
 
 **Title TBD**
@@ -429,7 +429,8 @@ Abstract TBD
 <hr>
 Thursday 11 April 2024 | Seminar Room 2
 <p>
-<strong><a href='NA'>TBD</a></strong>
+<strong><a href='https://alexkuops.wordpress.com/'>Alexander
+Kuo</a></strong>
 </p>
 
 **Title TBD**
