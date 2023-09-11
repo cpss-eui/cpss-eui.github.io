@@ -30,12 +30,29 @@ Thursday 05 October 2023 | Seminar Room 2
 Hangartner</a></strong>
 </p>
 
-**Title TBD**
+**Which counterspeech strategy mitigates intergroup hostility and its
+amplification on social media? Evidence from a field experiment on the
+role of empathy**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+Online intergroup hostility is a pervasive and troubling issue, yet
+experimental evidence on how to curb it remains scarce. This study
+focuses on counterspeech as a means for users to reduce hate speech.
+Informed by theories from social psychology about the role of empathy in
+overcoming prejudice, we randomize four counterspeec strategies across
+the senders of 2,102 xenophobic Twitter messages. Compared to the
+control group, the three empathy-based strategies increase the sender’s
+propensity to delete the xenophobic message, reduce the share of new
+xenophobic messages over the following four weeks, and decrease other
+users’ amplification of the xenophobic message. Among these strategies,
+analogical perspective-taking, encouraging the sender to compare their
+own experiences of being attacked online with their discriminatory
+behavior towards the outgroup, is particularly effective. In contrast,
+disapproval messages have weaker effects. These findings provide
+theoretical and actionable insights for how to reduce intergroup
+hostility and its online amplification.
 </p>
 </details>
 <hr>
