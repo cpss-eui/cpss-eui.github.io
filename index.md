@@ -189,7 +189,7 @@ Thursday 16 November 2023 | Seminar Room 2
 Berliner</a></strong>
 </p>
 
-**Title TBD**
+**Information Processing in Participatory Governance**
 
 <details>
 <summary>Abstract:</summary>
