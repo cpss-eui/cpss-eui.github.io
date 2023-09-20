@@ -18,9 +18,11 @@ Kostelka](https://filipkostelka.com/), with support by [Daniel
 Urquijo](https://www.eui.eu/people?id=daniel-urquijo) and [Pau
 Grau](https://paugrau.cat/).
 
-# Upcoming Speakers
+Upcoming Speakers
+=================
 
-## Speakers during Fall 2023
+Speakers during Fall 2023
+-------------------------
 
 Thursday 05 October 2023 | Seminar Room 2
 <p>
@@ -38,9 +40,7 @@ Jiazhen Li, UZH; Şevval Şimşir, ETH; Iva Srbinovska, ETH; Robin Anna
 Vital, ETH; Karsten Donnay, UZH; and Fabrizio Gilardi, UZH)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Online intergroup hostility is a pervasive and troubling issue, yet
 experimental evidence on how to curb it remains scarce. This study
@@ -71,9 +71,7 @@ Thursday 12 October 2023 | Seminar Room 2
 Jacobs, UBC)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 The relative effects of economic and social change on support for
 far-right parties persistently occupies the attention of scholars and
@@ -95,16 +93,16 @@ independent of occupational status.
 <hr>
 Thursday 19 October 2023 | Seminar Room 2
 <p>
-<strong><a href='https://www.albertodiazcayeros.org/'>Alberto
-Diaz-Cayeros (Stanford)</a></strong>
+<strong><a href='https://www.tommasonannicini.eu/en/'>Tommaso
+Nannicini</a></strong>
 </p>
 
-**Title TBD**
+**Fighting Populism on Its Own Turf: Experimental Evidence (with
+Vincenzo Galasso, Bocconi; Massimo Morelli, Bocconi; and Piero Stanig,
+Bocconi)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -120,9 +118,7 @@ Zurich)</a></strong>
 Politics? (with Valentina Consiglio, University of Konstanz)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 The rise of the knowledge economy has profoundly transformed the
 political landscape. Thriving urban knowledge hubs have become almost
@@ -150,18 +146,37 @@ Thursday 02 November 2023 | Seminar Room 2
 (UCL)</a></strong>
 </p>
 
-**Title TBD**
+**The C-SPAN Effect: Televised Debates, Emotional Appeals, and Political
+Accountability**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
-Abstract TBD
+We study the effect of televised broadcasts of floor debates on the
+rhetoric and behavior of U.S. Congress Members. First, we show in a
+differences-in-differences analysis that the introduction of C-SPAN
+broadcasts in 1979 increased the use of emotional appeals in the House
+relative to the Senate, where televised floor debates were not
+introduced until later. Second, we use exogenous variation in C-SPAN
+channel positioning as an instrument for C-SPAN viewership by
+Congressional district and show that House Members from districts with
+exogenously higher C-SPAN viewership are more emotive in floor debates.
+Looking to electoral pressures as a mechanism, we find the emotionality
+effect of C-SPAN is strongest in competitive districts. C-SPAN exposure
+increases the vote share for incumbent Congress Members and citizens’
+approval of their job in Congress, and more so among Members who speak
+more emotionally. Contra accountability models of transparency, C-SPAN
+has no effect on measures of legislative effort on behalf of
+constituents, and if anything it reduces a politician’s constituency
+orientation. We find that local news coverage – that is, mediated rather
+than direct transparency – has the opposite effect of C-SPAN, increasing
+legislative effort but with no effect on emotional rhetoric. These
+results highlight the importance of audience and mediation in the
+political impacts of higher transparency.
 </p>
 </details>
 <hr>
-Thursday 09 November 2023 | Location TBD
+Thursday 09 November 2023 | Seminar Room 2
 <p>
 <strong><a href='https://www.nataliagarbirasdiaz.com'>Natalia
 Garbiras-Diaz (Harvard Business School)</a></strong>
@@ -172,9 +187,7 @@ evidence in Latin America (with Loreto Cox, Pontificia Universidad
 Católica de Chile)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Public support for democracy is believed to serve as a safeguard against
 undemocratic behavior by politicians. Most of our measures of support
@@ -209,9 +222,7 @@ Thursday 16 November 2023 | Seminar Room 2
 **Information Processing in Participatory Governance**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -226,9 +237,7 @@ Madrid)</a></strong>
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -243,9 +252,7 @@ Thursday 30 November 2023 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -260,9 +267,7 @@ Thursday 07 December 2023 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
