@@ -215,11 +215,12 @@ of citizens as a democratic check, especially in polarized democracies.
 <hr>
 Thursday 16 November 2023 | Seminar Room 2
 <p>
-<strong><a href='http://www.danielberliner.com/'>Daniel Berliner
-(LSE)</a></strong>
+<strong><a href='https://emmylindstam.com'>Emmy Lindstam (IE
+Madrid)</a></strong>
 </p>
 
-**Information Processing in Participatory Governance**
+**Evaluating the Effects of Inclusive Historical Narratives on
+Democratic Attitudes: Evidence from India and the United States**
 
 <details>
 <summary>Abstract:</summary>
@@ -230,11 +231,11 @@ Abstract TBD
 <hr>
 Thursday 23 November 2023 | Seminar Room 2
 <p>
-<strong><a href='https://emmylindstam.com'>Emmy Lindstam (IE
-Madrid)</a></strong>
+<strong><a href='http://www.danielberliner.com/'>Daniel Berliner
+(LSE)</a></strong>
 </p>
 
-**Title TBD**
+**Information Processing in Participatory Governance**
 
 <details>
 <summary>Abstract:</summary>

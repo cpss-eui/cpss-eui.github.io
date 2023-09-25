@@ -56,18 +56,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20231116T170000Z
 DTEND:20231116T183000Z
-UID:CPSS: Daniel Berliner (LSE)
+UID:CPSS: Emmy Lindstam (IE Madrid)
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Daniel Berliner (LSE)
-DESCRIPTION:Title: Information Processing in Participatory GovernancenAbstract:Abstract TBD
+SUMMARY:CPSS: Emmy Lindstam (IE Madrid)
+DESCRIPTION:Title: Evaluating the Effects of Inclusive Historical Narratives on Democratic Attitudes: Evidence from India and the United StatesnAbstract:Abstract TBD
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20231123T170000Z
 DTEND:20231123T183000Z
-UID:CPSS: Emmy Lindstam (IE Madrid)
+UID:CPSS: Daniel Berliner (LSE)
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Emmy Lindstam (IE Madrid)
-DESCRIPTION:Title: Title TBDnAbstract:Abstract TBD
+SUMMARY:CPSS: Daniel Berliner (LSE)
+DESCRIPTION:Title: Information Processing in Participatory GovernancenAbstract:Abstract TBD
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20231130T170000Z
