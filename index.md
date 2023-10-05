@@ -6,9 +6,7 @@ subfield of comparative politics.
 It usually takes place on Thursdays from 17:00 to 18:30 at Seminar Room
 2, in Badia Fiesolana (Fiesole). See below or sync the
 [calendar](webcal://raw.githubusercontent.com/cpss-eui/cpss-eui.github.io/main/events.ics)
-for the exact location for each meeting. The event is in-person and
-on-line. Registration is required for online attendance. Attendance is
-generally restricted to members of the EUI community.
+for the exact location for each meeting.
 
 The series is organized by [Elias
 Dinas](https://www.eui.eu/people?id=elias-dinas), [Miriam
@@ -18,11 +16,9 @@ Kostelka](https://filipkostelka.com/), with support by [Daniel
 Urquijo](https://www.eui.eu/people?id=daniel-urquijo) and [Pau
 Grau](https://paugrau.cat/).
 
-Upcoming Speakers
-=================
+# Upcoming Speakers
 
-Speakers during Fall 2023
--------------------------
+## Speakers during Fall 2023
 
 Thursday 05 October 2023 | Seminar Room 2
 <p>
@@ -40,7 +36,9 @@ Jiazhen Li, UZH; Şevval Şimşir, ETH; Iva Srbinovska, ETH; Robin Anna
 Vital, ETH; Karsten Donnay, UZH; and Fabrizio Gilardi, UZH)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Online intergroup hostility is a pervasive and troubling issue, yet
 experimental evidence on how to curb it remains scarce. This study
@@ -71,7 +69,9 @@ Thursday 12 October 2023 | Seminar Room 2
 Jacobs, UBC)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 The relative effects of economic and social change on support for
 far-right parties persistently occupies the attention of scholars and
@@ -102,7 +102,9 @@ Vincenzo Galasso, Bocconi; Massimo Morelli, Bocconi; and Piero Stanig,
 Bocconi)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -118,7 +120,9 @@ Zurich)</a></strong>
 Politics? (with Valentina Consiglio, University of Konstanz)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 The rise of the knowledge economy has profoundly transformed the
 political landscape. Thriving urban knowledge hubs have become almost
@@ -150,7 +154,9 @@ Thursday 02 November 2023 | Seminar Room 2
 Accountability**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 We study the effect of televised broadcasts of floor debates on the
 rhetoric and behavior of U.S. Congress Members. First, we show in a
@@ -187,7 +193,9 @@ evidence in Latin America (with Loreto Cox, Pontificia Universidad
 Católica de Chile)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Public support for democracy is believed to serve as a safeguard against
 undemocratic behavior by politicians. Most of our measures of support
@@ -223,7 +231,9 @@ Madrid)</a></strong>
 Democratic Attitudes: Evidence from India and the United States**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -238,7 +248,9 @@ Thursday 23 November 2023 | Seminar Room 2
 **Information Processing in Participatory Governance**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -253,7 +265,9 @@ Thursday 30 November 2023 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -268,7 +282,9 @@ Thursday 07 December 2023 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
