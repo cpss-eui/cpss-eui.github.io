@@ -16,9 +16,11 @@ Kostelka](https://filipkostelka.com/), with support by [Daniel
 Urquijo](https://www.eui.eu/people?id=daniel-urquijo) and [Pau
 Grau](https://paugrau.cat/).
 
-# Upcoming Speakers
+Upcoming Speakers
+=================
 
-## Speakers during Fall 2023
+Speakers during Fall 2023
+-------------------------
 
 Thursday 05 October 2023 | Seminar Room 2
 <p>
@@ -36,9 +38,7 @@ Jiazhen Li, UZH; Şevval Şimşir, ETH; Iva Srbinovska, ETH; Robin Anna
 Vital, ETH; Karsten Donnay, UZH; and Fabrizio Gilardi, UZH)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Online intergroup hostility is a pervasive and troubling issue, yet
 experimental evidence on how to curb it remains scarce. This study
@@ -69,9 +69,7 @@ Thursday 12 October 2023 | Seminar Room 2
 Jacobs, UBC)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 The relative effects of economic and social change on support for
 far-right parties persistently occupies the attention of scholars and
@@ -102,11 +100,33 @@ Vincenzo Galasso, Bocconi; Massimo Morelli, Bocconi; and Piero Stanig,
 Bocconi)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
-Abstract TBD
+We evaluate how traditional parties may respond to populist parties on
+issues that are particularly fitting for populist messages. The testing
+ground is the 2020 Italian referendum on the reduction of members of
+Parliament. We implemented a large-scale field experiment with almost
+one million impressions of programmatic advertising, a concomitant
+survey experiment, and a follow-up survey in 2023. Our treatments
+consisted of two video ads: an informative video on the likely costs of
+cutting MPs aimed at deconstructing the populist narrative, and a
+trust-reducing video aimed at attacking the credibility of populist
+politicians. Our field experiment shows that the latter video is more
+effective at capturing the viewers’ attention, and it also decreases the
+“yes” votes in favor of cutting MPs. This effect is driven by a
+reduction in turnout rather than by an increase in the “no” votes, that
+is, the randomized campaign is effective mainly because of
+demobilization. Consistently with this mechanism, treatment effects are
+larger in municipalities with less college graduates, more people out of
+the labor force, larger populist votes in the previous elections, and
+smaller in size. The survey experiment corroborates the field findings.
+In the subsequent National election in 2022, municipalities treated with
+the anti-populist campaign vote more for a “new” populist party,
+Brothers of Italy, and less for both traditional parties and the “old”
+populists targeted in the 2020 campaign. The follow-up survey shows
+that, in treated municipalities, interest in politics and trust in
+institutions decrease, and the new populists fare better than the
+others, disclosing the existence of a peculiar populist dynamics.
 </p>
 </details>
 <hr>
@@ -120,9 +140,7 @@ Zurich)</a></strong>
 Politics? (with Valentina Consiglio, University of Konstanz)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 The rise of the knowledge economy has profoundly transformed the
 political landscape. Thriving urban knowledge hubs have become almost
@@ -154,9 +172,7 @@ Thursday 02 November 2023 | Seminar Room 2
 Accountability**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 We study the effect of televised broadcasts of floor debates on the
 rhetoric and behavior of U.S. Congress Members. First, we show in a
@@ -193,9 +209,7 @@ evidence in Latin America (with Loreto Cox, Pontificia Universidad
 Católica de Chile)**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Public support for democracy is believed to serve as a safeguard against
 undemocratic behavior by politicians. Most of our measures of support
@@ -231,9 +245,7 @@ Madrid)</a></strong>
 Democratic Attitudes: Evidence from India and the United States**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -248,9 +260,7 @@ Thursday 23 November 2023 | Seminar Room 2
 **Information Processing in Participatory Governance**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -265,9 +275,7 @@ Thursday 30 November 2023 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
@@ -282,9 +290,7 @@ Thursday 07 December 2023 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>
-Abstract:
-</summary>
+<summary>Abstract:</summary>
 <p>
 Abstract TBD
 </p>
