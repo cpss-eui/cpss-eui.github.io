@@ -91,42 +91,31 @@ independent of occupational status.
 <hr>
 Thursday 19 October 2023 | Seminar Room 2
 <p>
-<strong><a href='https://www.tommasonannicini.eu/en/'>Tommaso
-Nannicini</a></strong>
+<strong><a href='https://www.gu.se/en/about/find-staff/carldahlstrom'>Carl
+Dahlström (University of Gothenburg)</a></strong>
 </p>
 
-**Fighting Populism on Its Own Turf: Experimental Evidence (with
-Vincenzo Galasso, Bocconi; Massimo Morelli, Bocconi; and Piero Stanig,
-Bocconi)**
+**Executive Appointments under Legislative Oversight (with Mikael
+Holmgren, Örebro University)**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-We evaluate how traditional parties may respond to populist parties on
-issues that are particularly fitting for populist messages. The testing
-ground is the 2020 Italian referendum on the reduction of members of
-Parliament. We implemented a large-scale field experiment with almost
-one million impressions of programmatic advertising, a concomitant
-survey experiment, and a follow-up survey in 2023. Our treatments
-consisted of two video ads: an informative video on the likely costs of
-cutting MPs aimed at deconstructing the populist narrative, and a
-trust-reducing video aimed at attacking the credibility of populist
-politicians. Our field experiment shows that the latter video is more
-effective at capturing the viewers’ attention, and it also decreases the
-“yes” votes in favor of cutting MPs. This effect is driven by a
-reduction in turnout rather than by an increase in the “no” votes, that
-is, the randomized campaign is effective mainly because of
-demobilization. Consistently with this mechanism, treatment effects are
-larger in municipalities with less college graduates, more people out of
-the labor force, larger populist votes in the previous elections, and
-smaller in size. The survey experiment corroborates the field findings.
-In the subsequent National election in 2022, municipalities treated with
-the anti-populist campaign vote more for a “new” populist party,
-Brothers of Italy, and less for both traditional parties and the “old”
-populists targeted in the 2020 campaign. The follow-up survey shows
-that, in treated municipalities, interest in politics and trust in
-institutions decrease, and the new populists fare better than the
-others, disclosing the existence of a peculiar populist dynamics.
+A large literature argues that the executive’s appointment powers may
+bestow them with a significant policy advantage against the legislature.
+In practice, however, the legislature may also deploy a variety of
+instruments to strike back at the executive. In this paper, we field
+five decades’ worth of data from the Swedish government to investigate
+whether the executive might adapt their appointment strategies to
+legislative pressures. We take advantage of a vast system of ad-hoc
+commissions that the Swedish ministers have developed over time to track
+their sensitivity to the parliament’s partisan composition. We find
+that, while the ministers generally oversample appointees from their own
+parties, the overall distribution of political appointees also tends to
+shift along with the parliament’s balance of power. In line with recent
+theories of interbranch relations, our results highlight both the
+executive’s penchant for strategic appointments and the legislature’s
+constraining reach.
 </p>
 </details>
 <hr>
