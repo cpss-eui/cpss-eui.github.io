@@ -193,34 +193,28 @@ Thursday 09 November 2023 | Seminar Room 2
 Garbiras-Diaz (Harvard Business School)</a></strong>
 </p>
 
-**Declared versus revealed support for democracy: Survey and real-world
-evidence in Latin America (with Loreto Cox, Pontificia Universidad
-Católica de Chile)**
+**The Limits of Decentralized Administrative Data Collection: Evidence
+from Colombia (with Tara Slough, New York University)**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Public support for democracy is believed to serve as a safeguard against
-undemocratic behavior by politicians. Most of our measures of support
-for democracy come from public opinion surveys, based on questions that
-may suffer from social desirability bias and overlook the trade-offs
-that citizens face when choosing candidates. In 2022, we conducted rich
-two-wave panel surveys in Colombia and Peru. The baseline covered how
-citizens understand and value democracy in the abstract, and included a
-conjoint experiment, in which one of the manipulated attributes was
-whether the candidate adopted anti-democratic positions, following
-Graham and Svolik (2020). Shortly after, in December 2022, former Peru’s
-president, Pedro Castillo, attempted a failed self-coup and was then
-impeached by Congress. We compare (1) declared support for democracy in
-baseline questions with (2) revealed democratic commitment when facing
-trade-offs, as found in the conjoint, and (3) de facto support for
-democracy leveraging Castillo’s (real-world) anti-democratic move. We
-find that citizens behave slightly more democratically than a coin flip,
-even those who are declared democrats. Moreover, declared democratic
-attitudes weakly predict revealed democratic commitment. Citizens trade
-in democracy for ideological proximity and see real-world democratic
-deviations through partisan lenses. Our findings suggest a limited role
-of citizens as a democratic check, especially in polarized democracies.
+States collect vast amounts of data for use in policymaking and public
+administration. To do so, central governments frequently solicit data
+from decentralized bureaucrats. Because central governments use these
+data in policymaking, decentralized bureaucrats may face incentives to
+selectively report or misreport, limiting the quality of administrative
+data. We study the production of a transparency index by measuring the
+reporting behavior of bureaucrats in the near universe of Colombian
+public sector entities. Using an original audit, we show that failure to
+report and misreporting vary systematically in actual transparency
+practices, revealing limits to the use of these data. Further, in
+partnership with a Colombian government watchdog agency, we implement a
+large-scale experiment that varies the salience of central government
+oversight. Increased salience changed the data bureaucrats reported to
+the central government. Similar dynamics across policy areas and regime
+types are apt to limit the quality of state information in multiple
+contexts.
 </p>
 </details>
 <hr>
