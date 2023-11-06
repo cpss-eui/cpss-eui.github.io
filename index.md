@@ -245,7 +245,25 @@ Thursday 23 November 2023 | Seminar Room 2
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+Participatory governance institutions often aim to yield information
+useful to policymakers, whether about public preferences, problems,
+solutions, or perspectives. But how can large numbers of public
+contributions be processed into interpretable and actionable information
+outputs? As theorists and practitioners increasingly call for
+participatory governance to operate at larger scales, often enabled by
+new technologies, this challenge only becomes more important. Building
+on research across political theory, public administration, and
+political science, this paper develops and illustrates three claims:
+First, that information processing plays an important and
+under-appreciated role in participatory governance. Second, that there
+are distinct types of information processing, best characterised by two
+dimensions of specificity and novelty. And third, that these types
+differ in their costs, in the extent to which they can be delegated to
+non-experts or to automation, and in their potential consequences for
+unrepresentative participation. Better recognising these differences
+will help both researchers and practitioners better understand the
+potential and the limitations of participatory governance institutions
+in different settings and with different goals.
 </p>
 </details>
 <hr>
@@ -257,9 +275,9 @@ Thursday 30 November 2023 | Seminar Room 2
 
 **Effects of economic and social incentives on bureaucratic quality:
 Experimental Evidence from Sierra Leone (with Maarten Voors, Wageningen
-University; Salif Jaiteh, IDinsight; Niccolo Meriggi, IGC Sierra Leone;
-Carlo Prato, Columbia University; Peter van der Windt, New York
-University - Abu Dhabi.)**
+University; Salif Jaiteh, IDinsight; Niccolo Meriggi, IGC ; Carlo Prato,
+Columbia University; Peter van der Windt, New York University - Abu
+Dhabi)**
 
 <details>
 <summary>Abstract:</summary>
