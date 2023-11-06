@@ -255,12 +255,24 @@ Thursday 30 November 2023 | Seminar Room 2
 (WZB)</a></strong>
 </p>
 
-**Title TBD**
+**Effects of economic and social incentives on bureaucratic quality:
+Experimental Evidence from Sierra Leone (with Maarten Voors, Wageningen
+University; Salif Jaiteh, IDinsight; Niccolo Meriggi, IGC Sierra Leone;
+Carlo Prato, Columbia University; Peter van der Windt, New York
+University - Abu Dhabi.)**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+Using a field experiment implemented in Sierra Leone we examine mixed
+motives for local service providers. We find evidence consistent with
+past literature that social pressure improves quality–albeit at a lower
+levels than past studies have found. These gains however are no better
+than gains from simple direct payment mechanisms that involve similar
+direct costs but lower social costs. There is weak evidence of crowding
+out effects. Analysis of a structural model identifies conditions
+underwhich social or economic incentives are more or less likely to be
+effective.
 </p>
 </details>
 <hr>
