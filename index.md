@@ -230,7 +230,28 @@ Democratic Attitudes: Evidence from India and the United States**
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+Concerns about the state of democracy have surged in several countries
+amongst new evidence that many citizens do not value democratic
+principles or accept election results. Many suggest that at the core of
+these anti-democratic beliefs is a dismissal of some voters – ethnic
+minorities – as lesser members of the nation. In this project, we study
+whether historical narratives that highlight ethnic minorities’ positive
+contributions to the nation increase perceptions that they are entitled
+to speak on the nation’s behalf, and thereby enhance majority members
+support for the democratic process. We theorize that inclusive
+historical narratives can counteract the notion that minorities are
+lesser members of the nation and thus, the anti-democratic belief that
+their votes count less or not at all. To test our theory, we conduct
+online experiments in the world’s two largest democracies: India and the
+United States. In our experiments, we randomly assign participants
+either politically neutral or inclusive educational content sourced from
+real history textbooks. We then use both behavioral and stated
+preference measures to evaluate whether differenthistorical narratives
+affect perceptions of minorities’ place in the nation and support for
+anti-democratic attitudes, norms, and policies. Our findings indicate
+that battles over history education may carry consequences for majority
+members’ support for democratic principles and ethnic minorities’
+political voice.
 </p>
 </details>
 <hr>
