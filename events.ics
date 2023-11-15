@@ -55,14 +55,6 @@ SUMMARY:CPSS: Natalia Garbiras-Diaz (Harvard Business School)
 DESCRIPTION:Title: The Limits of Decentralized Administrative Data Collection: Evidence from Colombia (with Tara Slough, New York University)nAbstract:States collect vast amounts of data for use in policymaking and public administration. To do so, central governments frequently solicit data from decentralized bureaucrats. Because central governments use these data in policymaking, decentralized bureaucrats may face incentives to selectively report or misreport, limiting the quality of administrative data. We study the production of a transparency index by measuring the reporting behavior of bureaucrats in the near universe of Colombian public sector entities. Using an original audit, we show that failure to report and misreporting vary systematically in actual transparency practices, revealing limits to the use of these data. Further, in partnership with a Colombian government watchdog agency, we implement a large-scale experiment that varies the salience of central government oversight. Increased salience changed the data bureaucrats reported to the central government. Similar dynamics across policy areas and regime types are apt to limit the quality of state information in multiple contexts.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20231116T170000Z
-DTEND;TZID=Europe/Berlin:20231116T183000Z
-UID:CPSS: TBD
-LOCATION:Seminar Room 2
-SUMMARY:CPSS: TBD
-DESCRIPTION:Title: Evaluating the Effects of Inclusive Historical Narratives on Democratic Attitudes: Evidence from India and the United StatesnAbstract:Abstract TBD
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20231123T170000Z
 DTEND;TZID=Europe/Berlin:20231123T183000Z
 UID:CPSS: Daniel Berliner (LSE)
@@ -84,14 +76,6 @@ DTEND;TZID=Europe/Berlin:20231207T183000Z
 UID:CPSS: Beatriz Magaloni (Stanford)
 LOCATION:Seminar Room 2
 SUMMARY:CPSS: Beatriz Magaloni (Stanford)
-DESCRIPTION:Title: Title TBDnAbstract:Abstract TBD
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20240111T170000Z
-DTEND;TZID=Europe/Berlin:20240111T183000Z
-UID:CPSS: TBD
-LOCATION:Seminar Room 2
-SUMMARY:CPSS: TBD
 DESCRIPTION:Title: Title TBDnAbstract:Abstract TBD
 END:VEVENT
 BEGIN:VEVENT
@@ -124,14 +108,6 @@ DTEND;TZID=Europe/Berlin:20240208T183000Z
 UID:CPSS: Max Schaub (University of Hamburg)
 LOCATION:Seminar Room 2
 SUMMARY:CPSS: Max Schaub (University of Hamburg)
-DESCRIPTION:Title: Title TBDnAbstract:Abstract TBD
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20240215T170000Z
-DTEND;TZID=Europe/Berlin:20240215T183000Z
-UID:CPSS: TBD
-LOCATION:Seminar Room 2
-SUMMARY:CPSS: TBD
 DESCRIPTION:Title: Title TBDnAbstract:Abstract TBD
 END:VEVENT
 BEGIN:VEVENT
@@ -220,14 +196,6 @@ DTEND;TZID=Europe/Berlin:20240516T183000Z
 UID:CPSS: Anselm Hager (Humboldt)
 LOCATION:Seminar Room 2
 SUMMARY:CPSS: Anselm Hager (Humboldt)
-DESCRIPTION:Title: Title TBDnAbstract:Abstract TBD
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20240523T170000Z
-DTEND;TZID=Europe/Berlin:20240523T183000Z
-UID:CPSS: TBD
-LOCATION:Room TBD
-SUMMARY:CPSS: TBD
 DESCRIPTION:Title: Title TBDnAbstract:Abstract TBD
 END:VEVENT
 BEGIN:VEVENT

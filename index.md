@@ -16,11 +16,9 @@ Kostelka](https://filipkostelka.com/), with support by [Daniel
 Urquijo](https://www.eui.eu/people?id=daniel-urquijo) and [Pau
 Grau](https://paugrau.cat/).
 
-Upcoming Speakers
-=================
+# Upcoming Speakers
 
-Speakers during Fall 2023
--------------------------
+## Speakers during Fall 2023
 
 Thursday 05 October 2023 | Seminar Room 2
 <p>
@@ -38,7 +36,9 @@ Jiazhen Li, UZH; Şevval Şimşir, ETH; Iva Srbinovska, ETH; Robin Anna
 Vital, ETH; Karsten Donnay, UZH; and Fabrizio Gilardi, UZH)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Online intergroup hostility is a pervasive and troubling issue, yet
 experimental evidence on how to curb it remains scarce. This study
@@ -69,7 +69,9 @@ Thursday 12 October 2023 | Seminar Room 2
 Jacobs, UBC)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 The relative effects of economic and social change on support for
 far-right parties persistently occupies the attention of scholars and
@@ -99,7 +101,9 @@ Dahlström (University of Gothenburg)</a></strong>
 Holmgren, Örebro University)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 A large literature argues that the executive’s appointment powers may
 bestow them with a significant policy advantage against the legislature.
@@ -129,7 +133,9 @@ Zurich)</a></strong>
 Politics? (with Valentina Consiglio, University of Konstanz)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 The rise of the knowledge economy has profoundly transformed the
 political landscape. Thriving urban knowledge hubs have become almost
@@ -161,7 +167,9 @@ Thursday 02 November 2023 | Seminar Room 2
 Accountability**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 We study the effect of televised broadcasts of floor debates on the
 rhetoric and behavior of U.S. Congress Members. First, we show in a
@@ -197,7 +205,9 @@ Garbiras-Diaz (Harvard Business School)</a></strong>
 from Colombia (with Tara Slough, New York University)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 States collect vast amounts of data for use in policymaking and public
 administration. To do so, central governments frequently solicit data
@@ -218,21 +228,6 @@ contexts.
 </p>
 </details>
 <hr>
-Thursday 16 November 2023 | Seminar Room 2
-<p>
-<strong><a href='NA'>TBD</a></strong>
-</p>
-
-**Evaluating the Effects of Inclusive Historical Narratives on
-Democratic Attitudes: Evidence from India and the United States**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
 Thursday 23 November 2023 | Seminar Room 2
 <p>
 <strong><a href='http://www.danielberliner.com/'>Daniel Berliner
@@ -242,7 +237,9 @@ Thursday 23 November 2023 | Seminar Room 2
 **Information Processing in Participatory Governance**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Participatory governance institutions often aim to yield information
 useful to policymakers, whether about public preferences, problems,
@@ -279,7 +276,9 @@ Columbia University; Peter van der Windt, New York University - Abu
 Dhabi)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Using a field experiment implemented in Sierra Leone we examine mixed
 motives for local service providers. We find evidence consistent with
@@ -302,30 +301,17 @@ Thursday 07 December 2023 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
 </details>
 <hr>
 
-Speakers during Winter 2024
----------------------------
+## Speakers during Winter 2024
 
-Thursday 11 January 2024 | Seminar Room 2
-<p>
-<strong><a href='NA'>TBD</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
 Thursday 18 January 2024 | Seminar Room 2
 <p>
 <strong><a href='https://www.noamlupu.com/'>Noam Lupu
@@ -336,7 +322,9 @@ Thursday 18 January 2024 | Seminar Room 2
 Worker**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Participatory theories of democracy posit that participating in the
 political process transforms individuals into better democratic
@@ -370,7 +358,9 @@ Thursday 25 January 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -386,7 +376,9 @@ Thursday 01 February 2024 | Seminar Room 2
 from 19th century France (with Stephane Wolton, LSE)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 How do immigrants respond to xenophobic violence? We study how Italian
 immigrants responded to a wave of anti-Italian violence triggered by the
@@ -417,21 +409,9 @@ of Hamburg)</a></strong>
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 15 February 2024 | Seminar Room 2
-<p>
-<strong><a href='NA'>TBD</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -446,7 +426,9 @@ Thursday 22 February 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -461,7 +443,9 @@ Becher (IE Madrid)</a></strong>
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -476,7 +460,9 @@ School)</a></strong>
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -491,15 +477,16 @@ Thursday 14 March 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
 </details>
 <hr>
 
-Speakers during Spring 2024
----------------------------
+## Speakers during Spring 2024
 
 Thursday 04 April 2024 | Seminar Room 2
 <p>
@@ -510,7 +497,9 @@ Davis)</a></strong>
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -525,7 +514,9 @@ Thursday 11 April 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -540,7 +531,9 @@ Tertytchnaya (UCL)</a></strong>
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -555,7 +548,9 @@ Thursday 25 April 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -570,7 +565,9 @@ Thursday 02 May 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -585,7 +582,9 @@ Vindigni (University of Geneva)</a></strong>
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -600,21 +599,9 @@ Thursday 16 May 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 23 May 2024 | Location TBD
-<p>
-<strong><a href='NA'>TBD</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -629,7 +616,9 @@ Thursday 30 May 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
