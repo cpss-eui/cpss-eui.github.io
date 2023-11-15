@@ -70,32 +70,7 @@ for (i in 1:nrow(df_)) {
 ## Speakers during Winter 2024
 
 ```{r, results='asis'}
- df_ <- df[df$term %in% "Winter", ]
-
- for (i in 1:nrow(df_)) {
-   weekday <- weekdays(as.Date(df_$`start date`[i]))
-   year <- as.numeric(format(df_$`start date`[i], "%Y"))
-   start_month <- format(strptime(df_$start_date[i], "%Y%m%d"), "%B")
-   start_day <- format(strptime(df_$start_date[i], "%Y%m%d"), "%d")
-   subject <- df_$subject[i]
-   url <- df_$url[i]
-   title <- df_$title[i]
-   abstract <- df_$abstract[i]
-   location <- df_$location[i]
-   website <- df_$website[i]
-  
-   cat(paste0(weekday, " ", start_day, " ", start_month, " ", year, " | ", location,
-              "<p><strong><a href='", website, "'>", subject, "</a></strong></p>\n\n",
-              "**", title, "**\n\n",
-              "<details><summary>Abstract:</summary><p>", abstract, "</p></details>\n\n",
-              "<hr>\n\n"))
- }
-```
-
-## Speakers during Spring 2024
-
-```{r, results='asis'}
-df_ <- df[df$term %in% "Spring", ]
+df_ <- df[df$term %in% "Winter", ]
 
 for (i in 1:nrow(df_)) {
   weekday <- weekdays(as.Date(df_$`start date`[i]))
@@ -110,10 +85,35 @@ for (i in 1:nrow(df_)) {
   website <- df_$website[i]
   
   cat(paste0(weekday, " ", start_day, " ", start_month, " ", year, " | ", location,
-              "<p><strong><a href='", website, "'>", subject, "</a></strong></p>\n\n",
+             	"<p><strong><a href='", website, "'>", subject, "</a></strong></p>\n\n",
              "**", title, "**\n\n",
-             "<details><summary>Abstract:</summary><p>", abstract, "</p></details>\n\n",
+              "<details><summary>Abstract:</summary><p>", abstract, "</p></details>\n\n",
              "<hr>\n\n"))
+}
+```
+
+## Speakers during Spring 2024
+
+```{r, results='asis'}
+ df_ <- df[df$term %in% "Spring", ]
+
+ for (i in 1:nrow(df_)) {
+   weekday <- weekdays(as.Date(df_$`start date`[i]))
+   year <- as.numeric(format(df_$`start date`[i], "%Y"))
+   start_month <- format(strptime(df_$start_date[i], "%Y%m%d"), "%B")
+   start_day <- format(strptime(df_$start_date[i], "%Y%m%d"), "%d")
+   subject <- df_$subject[i]
+   url <- df_$url[i]
+   title <- df_$title[i]
+   abstract <- df_$abstract[i]
+   location <- df_$location[i]
+   website <- df_$website[i]
+  
+   cat(paste0(weekday, " ", start_day, " ", start_month, " ", year, " | ", location,
+             	"<p><strong><a href='", website, "'>", subject, "</a></strong></p>\n\n",
+              "**", title, "**\n\n",
+              "<details><summary>Abstract:</summary><p>", abstract, "</p></details>\n\n",
+              "<hr>\n\n"))
  }
 
 ```
