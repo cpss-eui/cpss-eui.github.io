@@ -285,7 +285,8 @@ Thursday 07 December 2023 | Seminar Room 2
 </p>
 
 **State-evading Solutions to Violence: Organized Crime and Governance in
-Indigenous Mexico**
+Indigenous Mexico (with Kristof Gosztonyi, Universität Osnabrück; and
+Sarah Thompson, Stanford University)**
 
 <details>
 <summary>Abstract:</summary>
