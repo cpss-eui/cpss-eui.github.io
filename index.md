@@ -19,6 +19,294 @@ Grau](https://paugrau.cat/).
 Upcoming Speakers
 =================
 
+Speakers during Winter 2024
+---------------------------
+
+Thursday 18 January 2024 | Seminar Room 2
+<p>
+<strong><a href='https://www.noamlupu.com/'>Noam Lupu
+(Vanderbilt)</a></strong>
+</p>
+
+**Supportive Political Participation: The Effects of Serving as a Poll
+Worker**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Participatory theories of democracy posit that participating in the
+political process transforms individuals into better democratic
+citizens. But empirical research on the individual-level effects of
+participation focuses overwhelmingly on voting, with mixed results and
+debate about the mechanisms. This study focuses on a different form of
+political participation and leverages a natural experiment in Peru to
+address the challenge posed by certain types of individuals
+self-selecting into political participation. Prior to every election,
+Peruvian officials randomly select citizens to serve as poll monitors on
+Election Day. Following the January 2020 congressional elections, I
+conducted a two-wave panel survey of these randomly selected poll
+monitors and also randomly selected alternates. I find that
+participation as a poll worker increases an individual’s senses of
+empowerment and efficacy, but does not provoke political interest or
+knowledge. I also find that participation boosts support for and trust
+in democratic institutions, especially elections, and that it fosters
+future civic participation. I find some evidence that these effects
+endure, at least for several months, although my follow-up estimates are
+less precise. Consistent with participatory theories of democracy,
+participation of this kind does shape citizens.
+</p>
+</details>
+<hr>
+Thursday 25 January 2024 | Seminar Room 2
+<p>
+<strong><a href='https://ralucapahontu.com/'>Raluca Pahontu
+(KCL)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 01 February 2024 | Seminar Room 2
+<p>
+<strong><a href='https://mathildeemeriau.com/'>Mathilde Emeriau
+(Sciences Po)</a></strong>
+</p>
+
+**In or Out? Xenophobic Violence and Immigrant Integration. Evidence
+from 19th century France (with Stephane Wolton, LSE)**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+How do immigrants respond to xenophobic violence? We study how Italian
+immigrants responded to a wave of anti-Italian violence triggered by the
+assassination of the French president by an Italian anarchist in June
+1894. Using French nominative census records from 1886, 1891 and 1896
+and official naturalization decrees published between 1887 to 1898, we
+study the decision of Italian immigrants to either leave their host
+communities or apply for naturalization using a
+difference-in-differences design, comparing the change in exit and
+naturalization application rate of Italians before and after the
+assassination to that of other foreigners in the same period. We
+document how xenophobic violence triggered an increase in both exits and
+naturalization applications, with greater violence or threat thereof
+associated with more exits and naturalization applications. We also find
+that well-integrated Italians, as proxied by family status, are more
+likely to naturalize and less integrated ones are more likely to exit.
+We present a stylized model of immigrants’ choices to make sense of
+these findings
+</p>
+</details>
+<hr>
+Thursday 08 February 2024 | Seminar Room 2
+<p>
+<strong><a href='https://maxschaub.eu/index.html'>Max Schaub (University
+of Hamburg)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 22 February 2024 | Seminar Room 2
+<p>
+<strong><a href='https://vinarceneaux.netlify.app/'>Kevin Arceneaux
+(Sciences Po)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 29 February 2024 | Seminar Room 2
+<p>
+<strong><a href='https://www.ie.edu/university/about/faculty/michael-becher/'>Michael
+Becher (IE Madrid)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 07 March 2024 | Seminar Room 2
+<p>
+<strong><a href='https://www.jon.fiva.no'>Jon Fiva (Norwegian Business
+School)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 14 March 2024 | Seminar Room 2
+<p>
+<strong><a href='https://isabelamares.com/'>Isabela Mares
+(Yale)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+
+Speakers during Spring 2024
+---------------------------
+
+Thursday 04 April 2024 | Seminar Room 2
+<p>
+<strong><a href='http://www.laurenelyssayoung.com/'>Lauren E. Young (UC
+Davis)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 11 April 2024 | Seminar Room 2
+<p>
+<strong><a href='https://alexkuops.wordpress.com/'>Alexander Kuo
+(Oxford)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 18 April 2024 | Seminar Room 2
+<p>
+<strong><a href='https://katerinatertytchnaya.com/'>Katerina
+Tertytchnaya (UCL)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 25 April 2024 | Seminar Room 2
+<p>
+<strong><a href='https://rachelbernhard.com/'>Rachel Bernhard
+(Oxford)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 02 May 2024 | Seminar Room 2
+<p>
+<strong><a href='https://ericdickson.net/'>Eric Dickson
+(NYU)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 09 May 2024 | Seminar Room 2
+<p>
+<strong><a href='https://rubrica.unige.it/personale/UkJHX1lu)'>Andrea
+Vindigni (University of Geneva)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 16 May 2024 | Seminar Room 2
+<p>
+<strong><a href='https://anselmhager.com/'>Anselm Hager
+(Humboldt)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 30 May 2024 | Seminar Room 2
+<p>
+<strong><a href='https://melissasands.org/'>Melissa Sands
+(LSE)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+
+Past Speakers
+=============
+
 Speakers during Fall 2023
 -------------------------
 
@@ -306,291 +594,6 @@ this outcome to the presence of strong direct participatory democratic
 practices, the presence of a community police run by local townsmen, and
 a parallel system of justice independent from the state, making
 communities more immune to cartel infiltration.
-</p>
-</details>
-<hr>
-
-Speakers during Winter 2024
----------------------------
-
-Thursday 18 January 2024 | Seminar Room 2
-<p>
-<strong><a href='https://www.noamlupu.com/'>Noam Lupu
-(Vanderbilt)</a></strong>
-</p>
-
-**Supportive Political Participation: The Effects of Serving as a Poll
-Worker**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Participatory theories of democracy posit that participating in the
-political process transforms individuals into better democratic
-citizens. But empirical research on the individual-level effects of
-participation focuses overwhelmingly on voting, with mixed results and
-debate about the mechanisms. This study focuses on a different form of
-political participation and leverages a natural experiment in Peru to
-address the challenge posed by certain types of individuals
-self-selecting into political participation. Prior to every election,
-Peruvian officials randomly select citizens to serve as poll monitors on
-Election Day. Following the January 2020 congressional elections, I
-conducted a two-wave panel survey of these randomly selected poll
-monitors and also randomly selected alternates. I find that
-participation as a poll worker increases an individual’s senses of
-empowerment and efficacy, but does not provoke political interest or
-knowledge. I also find that participation boosts support for and trust
-in democratic institutions, especially elections, and that it fosters
-future civic participation. I find some evidence that these effects
-endure, at least for several months, although my follow-up estimates are
-less precise. Consistent with participatory theories of democracy,
-participation of this kind does shape citizens.
-</p>
-</details>
-<hr>
-Thursday 25 January 2024 | Seminar Room 2
-<p>
-<strong><a href='https://ralucapahontu.com/'>Raluca Pahontu
-(KCL)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 01 February 2024 | Seminar Room 2
-<p>
-<strong><a href='https://mathildeemeriau.com/'>Mathilde Emeriau
-(Sciences Po)</a></strong>
-</p>
-
-**In or Out? Xenophobic Violence and Immigrant Integration. Evidence
-from 19th century France (with Stephane Wolton, LSE)**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-How do immigrants respond to xenophobic violence? We study how Italian
-immigrants responded to a wave of anti-Italian violence triggered by the
-assassination of the French president by an Italian anarchist in June
-1894. Using French nominative census records from 1886, 1891 and 1896
-and official naturalization decrees published between 1887 to 1898, we
-study the decision of Italian immigrants to either leave their host
-communities or apply for naturalization using a
-difference-in-differences design, comparing the change in exit and
-naturalization application rate of Italians before and after the
-assassination to that of other foreigners in the same period. We
-document how xenophobic violence triggered an increase in both exits and
-naturalization applications, with greater violence or threat thereof
-associated with more exits and naturalization applications. We also find
-that well-integrated Italians, as proxied by family status, are more
-likely to naturalize and less integrated ones are more likely to exit.
-We present a stylized model of immigrants’ choices to make sense of
-these findings
-</p>
-</details>
-<hr>
-Thursday 08 February 2024 | Seminar Room 2
-<p>
-<strong><a href='https://maxschaub.eu/index.html'>Max Schaub (University
-of Hamburg)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 22 February 2024 | Seminar Room 2
-<p>
-<strong><a href='https://vinarceneaux.netlify.app/'>Kevin Arceneaux
-(Sciences Po)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 29 February 2024 | Seminar Room 2
-<p>
-<strong><a href='https://www.ie.edu/university/about/faculty/michael-becher/'>Michael
-Becher (IE Madrid)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 07 March 2024 | Seminar Room 2
-<p>
-<strong><a href='https://www.jon.fiva.no'>Jon Fiva (Norwegian Business
-School)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 14 March 2024 | Seminar Room 2
-<p>
-<strong><a href='https://isabelamares.com/'>Isabela Mares
-(Yale)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-
-Speakers during Spring 2024
----------------------------
-
-Thursday 04 April 2024 | Seminar Room 2
-<p>
-<strong><a href='http://www.laurenelyssayoung.com/'>Lauren E. Young (UC
-Davis)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 11 April 2024 | Seminar Room 2
-<p>
-<strong><a href='https://alexkuops.wordpress.com/'>Alexander Kuo
-(Oxford)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 18 April 2024 | Seminar Room 2
-<p>
-<strong><a href='https://katerinatertytchnaya.com/'>Katerina
-Tertytchnaya (UCL)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 25 April 2024 | Seminar Room 2
-<p>
-<strong><a href='https://rachelbernhard.com/'>Rachel Bernhard
-(Oxford)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 02 May 2024 | Seminar Room 2
-<p>
-<strong><a href='https://ericdickson.net/'>Eric Dickson
-(NYU)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 09 May 2024 | Seminar Room 2
-<p>
-<strong><a href='https://rubrica.unige.it/personale/UkJHX1lu)'>Andrea
-Vindigni (University of Geneva)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 16 May 2024 | Seminar Room 2
-<p>
-<strong><a href='https://anselmhager.com/'>Anselm Hager
-(Humboldt)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 30 May 2024 | Seminar Room 2
-<p>
-<strong><a href='https://melissasands.org/'>Melissa Sands
-(LSE)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
 </p>
 </details>
 <hr>
