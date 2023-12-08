@@ -1,0 +1,61 @@
+---
+title: "old_events"
+output: md_document
+date: "2023-08-16"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+# Past events
+
+```{r}
+df <- readxl::read_excel("../../comparative-politics-seminar-series/speakers.xlsx", sheet = 2)
+df <- df[df$Subject!="TBD",]
+
+colnames(df) <- tolower(colnames(df))
+colnames(df) <- lapply(colnames(df), function(x) gsub("^\\s+|\\s+$", "", x))
+
+df$start_date <- gsub("-", "", df$`start date`)
+df$end_date <- gsub("-", "", df$`end date`)
+
+df$title <- ifelse(df$title != "0", df$title, "Title TBD")
+df$abstract <- ifelse(df$abstract != "0", df$abstract, "Abstract TBD")
+
+df$location <- ifelse(!grepl("Seminar Room 2", df$location), "Location TBD", df$location)
+
+df$subject <- gsub("CPSS: ", "", df$subject)
+df$subject <- ifelse(is.na(df$subject), "TBD", df$subject)
+
+df <- df[!is.na(df$start_date), ]
+```
+
+## Speakers during Fall 2023
+
+```{r, results='asis'}
+df_ <- df[df$term %in% "Fall", ]
+
+for (i in 1:nrow(df_)) {
+  weekday <- weekdays(as.Date(df_$`start date`[i]))
+  year <- as.numeric(format(df_$`start date`[i], "%Y"))
+  start_month <- format(strptime(df_$start_date[i], "%Y%m%d"), "%B")
+  start_day <- format(strptime(df_$start_date[i], "%Y%m%d"), "%d")
+  subject <- df_$subject[i]
+  url <- df_$url[i]
+  title <- df_$title[i]
+  abstract <- df_$abstract[i]
+  location <- df_$location[i]
+  website <- df_$website[i]
+  
+  cat(paste0(weekday, " ", start_day, " ", start_month, " ", year, " | ", location,
+             	"<p><strong><a href='", website, "'>", subject, "</a></strong></p>\n\n",
+             "**", title, "**\n\n",
+             "<details><summary>Abstract:</summary><p>\n\n", abstract, "</p></details>\n\n",
+             "<hr>\n\n"))
+}
+```
