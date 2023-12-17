@@ -111,12 +111,31 @@ Thursday 08 February 2024 | Seminar Room 2
 of Hamburg)</a></strong>
 </p>
 
-**Title TBD**
+**Cultural Roots of Negative Outgroup Attitudes: Theory and Evidence
+from the Re-activation of Antisemitic Stereotypes in Germany (with Eylem
+Kanol, WZB)**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+Outgroup prejudice is frequently attributed to contemporaneous factors,
+such as economic competition and perceptions of threat. We investigate
+the underlying source of stereotypes. We propose that many negative
+outgroup attitudes are ultimately rooted in what we refer to as cultural
+scripts—interconnected networks of meanings that link particular group
+identities to negatively-connoted phenomena. Using original survey data
+during the Covid-19 pandemic in Germany (n=17,800), we document a rise
+in antisemitic attitudes among individuals directly exposed to the
+pandemic, but solely among Christian believers. We suggest that this is
+because Christians rely on a cultural script linking Judaism with the
+spread of diseases. Evidence for the existence of this script is
+obtained from an automated text analysis of an original corpus of
+antisemitic texts (n=172). By means of a concept association task and a
+survey experiment (n=2,000), we demonstrate the differential effect of
+the script in the minds of Christians and non-Christians. We rule out
+several alternative explanations, particularly right-wing ideology. Our
+work demonstrates the deep cultural roots of exclusionary political
+attitudes and the mechanisms behind their activation.
 </p>
 </details>
 <hr>
