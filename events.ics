@@ -92,7 +92,7 @@ DTEND;TZID=Europe/Berlin:20240125T183000Z
 UID:CPSS: Raluca Pahontu (KCL)
 LOCATION:Seminar Room 2
 SUMMARY:CPSS: Raluca Pahontu (KCL)
-DESCRIPTION:Title: Title TBDnAbstract:Abstract TBD
+DESCRIPTION:Title: Resemblance and Discrimination in Elections (with Stavros Poupakis, Brunel University London)nAbstract:Discrimination affects hiring, mating and voting decisions. Whilst discrimination in elections mainly relates to gender or race, we introduce a novel source of discrimination: candidate resemblance. When candidates' partisanship is not known, voters select those that resemble most elected co-partisans. Using a machine learning algorithm for face comparison among white male legislators, we find a stronger resemblance effect for Republicans compared to Democrats in the US. This happens because Republicans have a higher within-party facial resemblance than Democrats, even when accounting for gender and race. We find a similar pattern in the UK, where Conservative MPs are more similar looking to each other than Labour. Using a survey experiment, we find that Tory voters reward resemblance, while there is no similar effect for Labour. The results are consistent with an interpretation of this behaviour as a form of statistical discrimination.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20240201T170000Z

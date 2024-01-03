@@ -64,12 +64,26 @@ Thursday 25 January 2024 | Seminar Room 2
 (KCL)</a></strong>
 </p>
 
-**Title TBD**
+**Resemblance and Discrimination in Elections (with Stavros Poupakis,
+Brunel University London)**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+Discrimination affects hiring, mating and voting decisions. Whilst
+discrimination in elections mainly relates to gender or race, we
+introduce a novel source of discrimination: candidate resemblance. When
+candidates’ partisanship is not known, voters select those that resemble
+most elected co-partisans. Using a machine learning algorithm for face
+comparison among white male legislators, we find a stronger resemblance
+effect for Republicans compared to Democrats in the US. This happens
+because Republicans have a higher within-party facial resemblance than
+Democrats, even when accounting for gender and race. We find a similar
+pattern in the UK, where Conservative MPs are more similar looking to
+each other than Labour. Using a survey experiment, we find that Tory
+voters reward resemblance, while there is no similar effect for Labour.
+The results are consistent with an interpretation of this behaviour as a
+form of statistical discrimination.
 </p>
 </details>
 <hr>
