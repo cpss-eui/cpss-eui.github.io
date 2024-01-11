@@ -227,12 +227,27 @@ Thursday 07 March 2024 | Seminar Room 2
 School)</a></strong>
 </p>
 
-**Title TBD**
+**Gender Gaps in Political Seniority Systems**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+Closed-list proportional representation (PR) generates higher average
+levels of descriptive representation for women. But because parties
+control candidate promotion, often based on seniority rules, gender bias
+in the seniority system can potentially curtail women’s career
+advancement. We theorize how seniority systems might operate in a
+gender-neutral way at three stages of a typical national-level political
+career: (1) nomination, (2) renomination and rank advancement, and (3)
+promotion to cabinet. Using detailed candidate-level data from Norway
+covering more than a century of elections, we find that career
+advancement in the seniority system is generally gender-neutral.
+However, we also identify two “majoritarian bottlenecks”—local
+mayoralties and top list positions—where women’s seniority-based career
+advancement may face challenges, and describe how parties appear to have
+employed workarounds to prevent these bottlenecks from adversely
+affecting women’s representation at higher levels of the political
+hierarchy.
 </p>
 </details>
 <hr>
