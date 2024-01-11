@@ -315,7 +315,7 @@ Abstract TBD
 </p>
 </details>
 <hr>
-Thursday 25 April 2024 | Seminar Room 2
+Friday 26 April 2024 | Seminar Room 2
 <p>
 <strong><a href='https://rachelbernhard.com/'>Rachel Bernhard
 (Oxford)</a></strong>
