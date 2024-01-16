@@ -197,12 +197,30 @@ Thursday 22 February 2024 | Seminar Room 2
 (Sciences Po)</a></strong>
 </p>
 
-**Title TBD**
+**Is Political Ignorance bliss? The Social and Political Effects of
+Facebook (with Martial Foucault, CEVIPOF; Kalli Giannelos, CEVIPOF &
+Paris-Dauphine; Jonathan Ladd, Georgetown U; Can Zengin, CEVIPOF &
+Temple U)**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+Nearly three billion people actively use Facebook, making it the largest
+social media platform in the world. Previous research shows that the
+social media platform reduces users’ happiness, while increasing
+political knowledge. It also may increase partisan polarization. Working
+to build a scientific consensus, we test whether the potential negative
+effects of Facebook use can be overcome with the help of minimalist
+informational interventions that a parallel line of research has shown
+to be effective at inducing people to be more accurate and civil. We
+conducted a preregistered well-powered Facebook deactivation experiment
+during the 2022 French presidential election. In line with previous
+research, we find that Facebook reduces happiness, informs, and
+increases partisan polarization but only among college educated
+individuals. In contrast, we find little evidence that minimalist
+informational interventions in a field setting helped individuals who
+deactivated Facebook to seek out news, be more accurate or less
+polarized.
 </p>
 </details>
 <hr>
