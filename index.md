@@ -230,12 +230,28 @@ Thursday 29 February 2024 | Seminar Room 2
 Becher (IE Madrid)</a></strong>
 </p>
 
-**Title TBD**
+**Trade Origins of Proportional Representation (with Irene Menéndez
+Gonzalez, IE University)**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+While recent research on the origins of Proportional Representation (PR)
+in Europe has focused on domestic political explanations, we bring
+international trade back to the analysis of electoral system choice.
+First, we sharpen earlier arguments and specify the partisan trade
+theory of endogenous electoral institutions, which highlights how the
+misrepresentation of trade interests in parliament shapes support for
+PR. Second, we test the theory using district-level referendum data and
+a natural experiment during the first globalization in Switzerland. We
+find a robust positive relationship between the vote for free trade and
+the subsequent vote for PR. Moreover, within-district change in the
+protectionist factor was tightly linked to changes in the PR vote.
+Leveraging plausibly exogenous variation in the introduction of PR
+across cantons, we also find that PR reduced the underrepresentation of
+free trade interests. Altogether, our analysis highlights the overlooked
+importance of international trade for conflict over electoral
+institutions.
 </p>
 </details>
 <hr>
