@@ -291,12 +291,13 @@ Thursday 14 March 2024 | Seminar Room 2
 (Yale)</a></strong>
 </p>
 
-**Title TBD**
+**Defending Parliament: Responses of mainstream parties to parliamentary
+erosion**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+NA
 </p>
 </details>
 <hr>
