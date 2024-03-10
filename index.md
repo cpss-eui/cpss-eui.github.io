@@ -297,7 +297,21 @@ erosion**
 <details>
 <summary>Abstract:</summary>
 <p>
-NA
+How does the presence of extremist parties in parliaments modify
+parliamentary norms? In this talk, I draw on two recent papers to
+examine the responses of mainstream politicians to the disruptive
+strategies of extremist legislators. A first study examines the dynamics
+of parliamentary erosion during the Weimar parliament. Using a novel
+dataset of all calls-to-order, I document the existence of a cycle of
+provocation-counter provocation that led to the erosion of parliamentary
+norms in the last years of the Weimar Republic. A second paper
+(co-authored with Qixuan Yang) studies informal interactions in the
+contemporary German Bundestag during the period between 2017 and 2021.
+Using a novel dataset of over 25,000 parliamentary speeches, we document
+a significant erosion of parliamentary norms, as measured by an increase
+in the number of verbal and nonverbal interruptions. Both legislators
+from mainstream and extremist parties contribute to this erosion of
+parliamentary norms.
 </p>
 </details>
 <hr>
