@@ -17,11 +17,9 @@ Kostelka](https://filipkostelka.com/), with support by [Daniel
 Urquijo](https://www.eui.eu/people?id=daniel-urquijo) and [Pau
 Grau](https://paugrau.cat/).
 
-Upcoming Events
-===============
+# Upcoming Events
 
-Speakers during Spring 2024
----------------------------
+## Speakers during Spring 2024
 
 Thursday 04 April 2024 | Seminar Room 2
 <p>
@@ -32,7 +30,9 @@ Davis)</a></strong>
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -47,7 +47,9 @@ Thursday 11 April 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -62,7 +64,9 @@ Tertytchnaya (UCL)</a></strong>
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -77,7 +81,9 @@ Friday 26 April 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -92,7 +98,9 @@ Thursday 02 May 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -107,7 +115,9 @@ Vindigni (University of Geneva)</a></strong>
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -122,7 +132,9 @@ Thursday 16 May 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
@@ -137,7 +149,9 @@ Thursday 30 May 2024 | Seminar Room 2
 **Title TBD**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Abstract TBD
 </p>
