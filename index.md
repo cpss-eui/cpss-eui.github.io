@@ -38,21 +38,6 @@ Abstract TBD
 </p>
 </details>
 <hr>
-Thursday 11 April 2024 | Seminar Room 2
-<p>
-<strong><a href='https://alexkuops.wordpress.com/'>Alexander Kuo
-(Oxford)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
 Thursday 18 April 2024 | Seminar Room 2
 <p>
 <strong><a href='https://katerinatertytchnaya.com/'>Katerina
