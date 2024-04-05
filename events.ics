@@ -170,7 +170,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20240426T170000Z
 DTEND;TZID=Europe/Berlin:20240426T183000Z
 UID:CPSS: Rachel Bernhard (Oxford)
-LOCATION:Seminar Room 2
+LOCATION:Sala del Capitolo
 SUMMARY:CPSS: Rachel Bernhard (Oxford)
 DESCRIPTION:Title: Title TBDnAbstract:Abstract TBD
 END:VEVENT
