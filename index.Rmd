@@ -34,7 +34,7 @@ df$end_date <- gsub("-", "", df$`end date`)
 df$title <- ifelse(df$title != "0", df$title, "Title TBD")
 df$abstract <- ifelse(df$abstract != "0", df$abstract, "Abstract TBD")
 
-df$location <- ifelse(!grepl("Seminar Room 2", df$location), "Location TBD", df$location)
+df$location <- ifelse(grepl("\\?", df$location), "Location TBD", df$location)
 
 df$subject <- gsub("CPSS: ", "", df$subject)
 df$subject <- ifelse(is.na(df$subject), "TBD", df$subject)

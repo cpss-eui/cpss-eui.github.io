@@ -56,7 +56,7 @@ the ethical principles of respect for persons and beneficence.
 Thursday 18 April 2024 | Seminar Room 2
 <p>
 <strong><a href='https://katerinatertytchnaya.com/'>Katerina
-Tertytchnaya (UCL)</a></strong>
+Tertytchnaya (Oxford)</a></strong>
 </p>
 
 **Publicized Preventive Repression**
@@ -85,7 +85,7 @@ surveys and original framing experiments.
 </p>
 </details>
 <hr>
-Friday 26 April 2024 | Location TBD
+Friday 26 April 2024 | Sala del Capitolo
 <p>
 <strong><a href='https://rachelbernhard.com/'>Rachel Bernhard
 (Oxford)</a></strong>

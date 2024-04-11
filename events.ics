@@ -161,9 +161,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20240418T170000Z
 DTEND;TZID=Europe/Berlin:20240418T183000Z
-UID:CPSS: Katerina Tertytchnaya (UCL)
+UID:CPSS: Katerina Tertytchnaya (Oxford)
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Katerina Tertytchnaya (UCL)
+SUMMARY:CPSS: Katerina Tertytchnaya (Oxford)
 DESCRIPTION:Title: Publicized Preventive RepressionnAbstract:Research in comparative politics and conflict agrees that preventive repression is most effective when it is invisible. Yet contemporary autocrats often publicize their attempts and failure to prevent dissent. Using quantitative analysis and case studies, I develop and test a theory of how publicized preventive repression aids au- tocracies. I propose that autocrats’ decision to publicize preventive repression, even when repression does not deter dissent, shapes audiences’ beliefs and behaviours. Like propaganda, publicized preventive repression communicates information about attributes of the opposition and of the authorities and influences beliefs and be- haviours through persuasion and not just fear. This blurs the boundaries between repression as a tool of fear and propaganda as a tool of persuasion. I illustrate this argument with an analysis of the protest authorization process in Putin’s Russia. The empirical analysis draws on a decade of original data on protest notifications, protests, and repression spanning the period 2012-2023. It also leverages evidence from a decade of news coverage on state-controlled media and several rounds of public opinion surveys and original framing experiments.
 END:VEVENT
 BEGIN:VEVENT
