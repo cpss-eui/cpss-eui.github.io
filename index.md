@@ -55,33 +55,35 @@ the ethical principles of respect for persons and beneficence.
 <hr>
 Thursday 18 April 2024 | Seminar Room 2
 <p>
-<strong><a href='https://katerinatertytchnaya.com/'>Katerina
-Tertytchnaya (Oxford)</a></strong>
+<strong><a href='https://pfernandezvazquez.com'>Pablo
+Fernandez-Vazquez</a></strong>
 </p>
 
-**Publicized Preventive Repression**
+**Undoing Insulation: Politicization and Revolving Doors in a Closed
+Weberian Bureaucracy**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Research in comparative politics and conflict agrees that preventive
-repression is most effective when it is invisible. Yet contemporary
-autocrats often publicize their attempts and failure to prevent dissent.
-Using quantitative analysis and case studies, I develop and test a
-theory of how publicized preventive repression aids au- tocracies. I
-propose that autocrats’ decision to publicize preventive repression,
-even when repression does not deter dissent, shapes audiences’ beliefs
-and behaviours. Like propaganda, publicized preventive repression
-communicates information about attributes of the opposition and of the
-authorities and influences beliefs and be- haviours through persuasion
-and not just fear. This blurs the boundaries between repression as a
-tool of fear and propaganda as a tool of persuasion. I illustrate this
-argument with an analysis of the protest authorization process in
-Putin’s Russia. The empirical analysis draws on a decade of original
-data on protest notifications, protests, and repression spanning the
-period 2012-2023. It also leverages evidence from a decade of news
-coverage on state-controlled media and several rounds of public opinion
-surveys and original framing experiments.
+Academic and policy discussions regarding the bureaucracy often advocate
+for robust civil service systems, incorporating meritocratic entrance
+exams, competitive salaries, and lifelong tenure in order to curb
+political influence and promote effective governance. Using a unique and
+comprehensive administrative dataset covering the selection and careers
+of various elite civil service corps in Spain from 1940 to 2023, we
+unveil striking patterns that challenge conventional wisdom about
+Weberian bureaucracies. First, our findings reveal that a substantial
+portion of elite civil servants depart from the corps to pursue roles in
+the private sector or assume high-level political positions. Second, we
+identify pronounced partisan patterns in the recruitment of elite civil
+servants for top-tier political appointments, with certain corps
+consistently aligned with the left while others lean towards the right.
+Third, we show that while these elite civil service corps have become
+more diverse in terms of gender, they remain largely biased in their
+socioeconomic profile. In summary, our study demonstrates that the
+formal insulation and meritocratic principles of Weberian bureaucracies
+can coexist with enduring socioeconomic biases and the integration of
+bureaucratic, political, and corporate career paths.
 </p>
 </details>
 <hr>
