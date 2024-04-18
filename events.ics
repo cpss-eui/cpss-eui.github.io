@@ -206,4 +206,12 @@ LOCATION:Seminar Room 2
 SUMMARY:CPSS: Melissa Sands (LSE)
 DESCRIPTION:Title: Title TBDnAbstract:Abstract TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20240606T170100Z
+DTEND;TZID=Europe/Berlin:20240606T183100Z
+UID:CPSS: Jacob Nyrup (University of Oslo)
+LOCATION:TBD
+SUMMARY:CPSS: Jacob Nyrup (University of Oslo)
+DESCRIPTION:Title: Title TBDnAbstract:Abstract TBD
+END:VEVENT
 END:VCALENDAR

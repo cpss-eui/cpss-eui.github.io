@@ -194,3 +194,18 @@ Abstract TBD
 </p>
 </details>
 <hr>
+Thursday 06 June 2024 | TBD
+<p>
+<strong><a href='http://www.jacobnyrup.dk'>Jacob Nyrup (University of
+Oslo)</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>Abstract:</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
