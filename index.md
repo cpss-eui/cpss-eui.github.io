@@ -179,21 +179,6 @@ become active when more engagement is desired.
 </p>
 </details>
 <hr>
-Thursday 30 May 2024 | Seminar Room 2
-<p>
-<strong><a href='https://melissasands.org/'>Melissa Sands
-(LSE)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
 Thursday 06 June 2024 | TBD
 <p>
 <strong><a href='http://www.jacobnyrup.dk'>Jacob Nyrup (University of
