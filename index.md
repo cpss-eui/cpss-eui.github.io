@@ -121,27 +121,31 @@ Thursday 02 May 2024 | Seminar Room 2
 (NYU)</a></strong>
 </p>
 
-**Title TBD**
+**Public Knowledge of Political Psychology and Its Electoral
+Consequences**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 09 May 2024 | Seminar Room 2
-<p>
-<strong><a href='https://rubrica.unige.it/personale/UkJHX1lu)'>Andrea
-Vindigni (University of Geneva)</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>Abstract:</summary>
-<p>
-Abstract TBD
+Politicians use a variety of psychological techniques to sway voters and
+win support in elections. For instance, politicians often attempt to
+instill fear in members of the public, or grossly exaggerate (or
+willfully minimize) potential threats to society. Political psychology
+studies the ways in which such campaign techniques can potentially
+affect voters. Crucially, people are often unaware (or incompletely
+aware) of their emotional states, the effects their emotions have on
+their political judgments, or how political actors attempt to manipulate
+their emotions. Can educating members of the public about ideas from
+political psychology improve their awareness of these psychological
+phenomena? Would such awareness have downstream impact on the
+effectiveness of such manipulative campaigning techniques, and voters’
+evaluations of politicians who employ them? This talk presents ideas for
+an experimental design exploring these questions. A future goal of the
+project will be the development of a behavioral game-theoretic model of
+emotional manipulation in election campaigning that would highlight the
+mechanisms through which higher public awareness of ideas from political
+psychology could potentially shape politicians’ incentives to use
+manipulative campaign techniques (or not to) in equilibrium.
 </p>
 </details>
 <hr>
