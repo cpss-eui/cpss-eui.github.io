@@ -183,18 +183,35 @@ become active when more engagement is desired.
 </p>
 </details>
 <hr>
-Thursday 06 June 2024 | TBD
+Thursday 06 June 2024 | Seminar Room 2
 <p>
 <strong><a href='http://www.jacobnyrup.dk'>Jacob Nyrup (University of
 Oslo)</a></strong>
 </p>
 
-**Title TBD**
+**Paths to power: A new dataset on the social profile of governments
+(with Carl Henrik Knutsen, Peter Egge Langsæther, and Ina Lyftingsmo
+Kristiansen, University of Oslo)**
 
 <details>
 <summary>Abstract:</summary>
 <p>
-Abstract TBD
+Systematized information on the background of cabinet ministers across
+long time-periods and all geographical regions remains limited. Hence,
+many questions related to the role of class, education, occupation, and
+geography in political representation remain hard to address. To enable
+such studies, we introduce Paths to Power (PtP), a dataset on the
+educational, occupational, and social background of cabinet ministers.
+PtP contains detailed individual- level data for cabinet members from
+130 countries across 1966-2021. We first detail the data gathering
+process and discuss validity properties. We then demonstrate how PtP can
+be used to gain new insights using descriptive statistics and two
+applications. In the first application, we consider variation in cabinet
+working class representation, suggesting that autocratic regime ideology
+and party composition of democratic governments shape this. Next, we
+replicate the established finding that democracies have more educated
+leaders than autocracies, and then find that autocracies have similarly
+well-educated cabinet ministers.
 </p>
 </details>
 <hr>
