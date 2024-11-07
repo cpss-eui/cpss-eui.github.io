@@ -10,12 +10,11 @@ for the exact location for each meeting. See [previous
 events](https://cpss-eui.github.io/old_events.html).
 
 The series is organized by [Elias
-Dinas](https://www.eui.eu/people?id=elias-dinas), [Miriam
-Golden](https://www.miriamgolden.com/), [Simon
+Dinas](https://www.eui.eu/people?id=elias-dinas), [Simon
 Hix](https://simonhix.com//), and [Filip
-Kostelka](https://filipkostelka.com/), with support by [Daniel
-Urquijo](https://www.eui.eu/people?id=daniel-urquijo) and [Pau
-Grau](https://paugrau.cat/).
+Kostelka](https://filipkostelka.com/), \[Sascha Riaz\]
+(<a href="https://saschariaz.com/" class="uri">https://saschariaz.com/</a>),
+with support by \[Paloma Abril Poncela\] and \[Carmen Ramirez Folch\].
 
 Upcoming Events
 ===============
