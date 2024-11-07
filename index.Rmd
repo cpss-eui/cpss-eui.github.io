@@ -1,7 +1,7 @@
 ---
 title: "index"
 output: md_document
-date: "2023-08-16"
+date: "2024-11-7"
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +16,7 @@ The Comparative Politics Seminar Series in the Department of Political and Socia
 
 It usually takes place on Thursdays from 17:00 to 18:30 at Seminar Room 2, in Badia Fiesolana (Fiesole). See below or sync the [calendar](webcal://raw.githubusercontent.com/cpss-eui/cpss-eui.github.io/main/events.ics) for the exact location for each meeting. See [previous events](https://cpss-eui.github.io/old_events.html). 
 
-The series is organized by [Elias Dinas](https://www.eui.eu/people?id=elias-dinas), [Miriam Golden](https://www.miriamgolden.com/), [Simon Hix](https://simonhix.com//), and [Filip Kostelka](https://filipkostelka.com/), with support by [Daniel Urquijo](https://www.eui.eu/people?id=daniel-urquijo) and [Pau Grau](https://paugrau.cat/).
+The series is organized by [Elias Dinas](https://www.eui.eu/people?id=elias-dinas), [Simon Hix](https://simonhix.com//), and [Filip Kostelka](https://filipkostelka.com/), [Sascha Riaz] (https://saschariaz.com/), with support by [Paloma Abril Poncela] and [Carmen Ramirez Folch].
 
 
 # Upcoming Events
