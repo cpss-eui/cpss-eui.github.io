@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 # Past events
 
 ```{r}
-df <- readxl::read_excel("../../comparative-politics-seminar-series/speakers.xlsx", sheet = 2)
+df <- readxl::read_excel("../../comparative-politics-seminar-series/speakers_2023.xlsx", sheet = 2)
 df <- df[df$Subject!="TBD",]
 
 colnames(df) <- tolower(colnames(df))
@@ -33,6 +33,31 @@ df$subject <- gsub("CPSS: ", "", df$subject)
 df$subject <- ifelse(is.na(df$subject), "TBD", df$subject)
 
 df <- df[!is.na(df$start_date), ]
+```
+
+## Speakers during Spring 2024
+
+```{r, results='asis'}
+df_ <- df[df$term %in% "Spring", ]
+
+for (i in 1:nrow(df_)) {
+  weekday <- weekdays(as.Date(df_$`start date`[i]))
+  year <- as.numeric(format(df_$`start date`[i], "%Y"))
+  start_month <- format(strptime(df_$start_date[i], "%Y%m%d"), "%B")
+  start_day <- format(strptime(df_$start_date[i], "%Y%m%d"), "%d")
+  subject <- df_$subject[i]
+  url <- df_$url[i]
+  title <- df_$title[i]
+  abstract <- df_$abstract[i]
+  location <- df_$location[i]
+  website <- df_$website[i]
+  
+  cat(paste0(weekday, " ", start_day, " ", start_month, " ", year, " | ", location,
+             	"<p><strong><a href='", website, "'>", subject, "</a></strong></p>\n\n",
+             "**", title, "**\n\n",
+              "<details><summary>Abstract:</summary><p>", abstract, "</p></details>\n\n",
+             "<hr>\n\n"))
+}
 ```
 
 ## Speakers during Winter 2024
