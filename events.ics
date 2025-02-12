@@ -7,60 +7,99 @@ X-WR-TIMEZONE:Europe/Berlin
 DESCRIPTION;ENCODING=QUOTED-PRINTABLE:
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20241010T170000Z
-DTEND;TZID=Europe/Berlin:20241010T183000Z
-UID:CPSS: Tommaso Nannicini
+DTSTART;TZID=Europe/Berlin:20250123T170000Z
+DTEND;TZID=Europe/Berlin:20250123T183000Z
+UID:CPSS: Jan Rovny
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Tommaso Nannicini
-DESCRIPTION:Title: The Populist Dynamic: Experimental Evidence on the Effects of Countering PopulismnAbstract:We evaluate how traditional parties may respond to populist parties on issues aligning with populist messages. During the 2020 Italian referendum on the reduction of members of Parliament, we conducted a large-scale field experiment, exposing 200 municipalities to nearly a million impressions of programmatic advertisement. Our treatments comprised two video ads against the reform: one debunking populist rhetoric and another attributing blame to populist politicians. This anti-populist campaign proved effective through demobilization, as it reduced both turnout and the votes in favor of the reform. Notably, the effects were more pronounced in municipalities with lower rates of college graduates, higher unemployment, and a history of populist votes. This exogenous influence introduced a unique populist dynamic, observable in the 2022 national election where treated municipalities showed increased support for Brothers of Italy, a rising populist party, and decreased support for both traditional parties and the populists behind the 2020 reform. A follow-up survey further showed increased political interest and diminished trust in political institutions among the residents of municipalities targeted by the campaign.
+SUMMARY:CPSS: Jan Rovny
+DESCRIPTION:Title: Ethnic minorities and democratic supportnAbstract:Ethnicity and democracy are generally expected to be at odds with each other. However, studies rarely engage with the democratic preferences and minorities and fail to consider democracy as a multifaceted concept, combining majoritarian decision-making with counter-majoritarian rights protection. This project argues that ethnic minorities view democracy in light of their position within the polity. Their democratic preferences are not unidimensional, but rather depend on the specific aspect of democracy. The project investigates four core tenets of democracy: electoral democracy, liberal democracy, social rights, and people rule; as well as three oppositions to democracy: populism, illiberalism, and authoritarianism. The project demonstrates that minorities differ in their focus on distinct aspects of democracy. Minorities with a more precarious association to the majority-dominated state – eastern European historical minorities and western European Muslims – are particularly concerned about liberal democracy and social rights, while being more hesitant about electoral and popular democracy. Minorities more rooted within the existing state – western European historical minorities – show lower concern for democracy in general.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20241024T170000Z
-DTEND;TZID=Europe/Berlin:20241024T183000Z
-UID:CPSS: Jessica di Salvatore
+DTSTART;TZID=Europe/Berlin:20250213T170000Z
+DTEND;TZID=Europe/Berlin:20250213T183000Z
+UID:CPSS: Mikael Persson
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Jessica di Salvatore
-DESCRIPTION:Title: Trust the hand that protects you – Do Military Interventions harm Trust
-for the Government?nAbstract:Rebuilding state legitimacy is a thorny challenge in the aftermath of civil wars. The
-international community has stepped in to support states’ recovery, sometimes replacing
-governments in providing public goods. Research shows that UN peacekeepers often become
-de facto security providers. The article assesses whether and how external provision of the
-most basic public good, i.e. security, affects citizens’ trust towards the government. On the
-one hand, by providing a secure environment, UN peacekeepers may facilitate the functioning
-of domestic institutions, who could reap the reputational benefit of working with the UN.
-However, I posit that attribution problems and reputational costs counter the positive impact
-of UN’s capacity-building efforts. The analysis focuses on the case of the UN mission in Mali
-(MINUSMA) exploiting Afrobarometer’s geocoded surveys before and after deployment,
-combined with subnational deployment data. The article provides insights on how international
-interventions affect an understudied aspect of state-building – i.e. the legitimacy of institutions
-they are expected to assist.
+SUMMARY:CPSS: Mikael Persson
+DESCRIPTION:Title: Processing Economic Signals: Voter Responses to Growth, Unemployment, Inflation and Stock MarketsnAbstract:Economic voting theory suggests that voters reward incumbents for strong economic performance and punish them for weak performance. However, this view often ignores the multidimensional nature of the economy. Hence, we lack systematic evidence about how voters simultaneously process multiple economic signals. This study provides a comprehensive examination of how voters respond to four key economic dimensions: growth, unemployment, inflation, and stock markets. We develop a theoretical framework distinguishing between different types of economic reasoning: macroeconomic, egotropic, sociotropic, and distributive reasoning. We first use descriptive data from OECD countries to understand the economy’s dimensionality and analyze survey data from national election studies to assess the impact on economic evaluations. Finally, we present findings from survey experiments conducted in Germany, Sweden, and the United States, tailored to analyze the impact of the four economic dimensions in an ideal information setting. Our results reveal interesting patterns in how voters process economic information. Voters can discern relationships between economic dimensions and their effects on personal and economic circumstances, and distributional outcomes. Subsequently, all four signals independently affect preferences for economic policy and voting intentions. Inflation emerges as a dominant factor, shaping personal and national economic evaluations. Our findings challenge traditional approaches to economic voting by exploring how voters integrate multiple economic signals. By emphasizing the multidimensionality of economic signals, we highlight implications for democratic accountability.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20241121T170000Z
-DTEND;TZID=Europe/Berlin:20241121T183000Z
-UID:CPSS: Daniel Rubenson
+DTSTART;TZID=Europe/Berlin:20250227T170000Z
+DTEND;TZID=Europe/Berlin:20250227T183000Z
+UID:CPSS: Andrea Ruggeri
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Daniel Rubenson
-DESCRIPTION:Title: The Luck of the Draw: New Evidence on the Resource Curse From Thousands of Randomized Income ShocksnAbstract:Much has been written on the “resource curse” in economics and political science. Early work suggested a phenomenon by which countries rich in natural resources and other organizations coming into windfalls often had worse economic and political outcomes. More modern research has sought to differentiate reasons for some countries and organizations being more susceptible to adverse effects while others are able to benefit. While often theoretically sophisticated, the important work on this question suffers from serious problems of endogeneity as well as the fact the population of potential cases is necessarily small. Individual lottery winners have been used as a proxy. However, this data-rich approach moves us too far from the original question. 
-
-To overcome these problems we analyze thousands of completely randomized, large scale, income shocks to complex organizations. The data come from every third round match in the English Football Association Cup (FA Cup) since the format the tournament was changed in 1952. In this competition smaller, lower league teams are assigned by lottery in the third round to play larger clubs and the clubs share the ticket revenue, creating a potentially massive exogenous economic windfall for small teams.
-
-Our results suggest organizations benefit both in the short term and long term from these income shocks and we can precisely estimate the decay of the effect over time. We also provide evidence linking the level of success to the organizational capacity of clubs and their internal (political) decision making institutions. We discuss our findings in relation to the larger resource curse literature and the literature on organizational effectiveness.
+SUMMARY:CPSS: Andrea Ruggeri
+DESCRIPTION:Title: Violent Civilian Agency. The logic of civilian-to-civilian killings: insights from the Korean War.nAbstract:The concept of violent civilian agency in wartime remains largely unexplored. Challenging the prevailing view of civilians as passive victims or bystanders of violence, we propose a theory of pre-emptive civilian killings to explain the motive, timing, and location of incidents where civilians proactively turn to violence against each other during conflicts. Our argument suggests that civilian-on-civilian violence primarily occurs in areas where locals have collaborated with occupying military forces. Specifically, collaborators may engage in preemptive killings of non-collaborators to prevent whistleblowing but also prevent victims’ revenge, especially as invading forces retreat and rival armed groups advance. We empirically test this theory using geocoded event data from the Korean War (1950–1953), focusing on civilian violence patterns surrounding the North Korean troops’ abrupt retreat, ordered by Kim Il-sung. Our findings reveal a significant increase in pre-emptive civilian killings following the retreat, particularly in regions with high levels of prior collaboration. This study makes three key contributions: it highlights the concept of violent agency among civilians, theorizes the conditions under which such agency emerges, and empirically tests these ideas using novel data. By shedding light on civilian behaviour in war, our work reveals how specific incentives and opportunities can lead civilians to become active perpetrators of violence against one another.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20241128T170000Z
-DTEND;TZID=Europe/Berlin:20241128T183000Z
-UID:CPSS: Nikitas Konstantinidis
+DTSTART;TZID=Europe/Berlin:20250320T170000Z
+DTEND;TZID=Europe/Berlin:20250320T183000Z
+UID:CPSS: Vincent Pons
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Nikitas Konstantinidis
+SUMMARY:CPSS: Vincent Pons
 DESCRIPTION:Title: TBDnAbstract:TBD
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20241205T170000Z
-DTEND;TZID=Europe/Berlin:20241205T183000Z
-UID:CPSS: Melissa Sands (LSE)
+DTSTART;TZID=Europe/Berlin:20250327T170000Z
+DTEND;TZID=Europe/Berlin:20250327T183000Z
+UID:CPSS: Kasia Nalewajko
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Melissa Sands (LSE)
+SUMMARY:CPSS: Kasia Nalewajko
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250410T170000Z
+DTEND;TZID=Europe/Berlin:20250410T183000Z
+UID:CPSS: Kristof Krakowski
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Kristof Krakowski
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20251024T170000Z
+DTEND;TZID=Europe/Berlin:20251024T183000Z
+UID:CPSS: Gabor Simonovits
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Gabor Simonovits
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250508T170000Z
+DTEND;TZID=Europe/Berlin:20250508T183000Z
+UID:CPSS: Carl Müller-Crepon
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Carl Müller-Crepon
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250522T170000Z
+DTEND;TZID=Europe/Berlin:20250522T183000Z
+UID:CPSS: Heine Kleuver
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Heine Kleuver
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250529T170000Z
+DTEND;TZID=Europe/Berlin:20250529T183000Z
+UID:CPSS: Maria Carreri
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Maria Carreri
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250605T170000Z
+DTEND;TZID=Europe/Berlin:20250605T183000Z
+UID:CPSS: Ruth Dassoneville
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Ruth Dassoneville
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20250612T170000Z
+DTEND;TZID=Europe/Berlin:20250612T183000Z
+UID:CPSS: Milan Svolik
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Milan Svolik
 DESCRIPTION:Title: TBDnAbstract:TBD
 END:VEVENT
 END:VCALENDAR

@@ -1,8 +1,6 @@
-Past events
-===========
+# Past events
 
-Speakers during Spring 2024
----------------------------
+## Speakers during Spring 2024
 
 Thursday 04 April 2024 | Seminar Room 2
 <p>
@@ -14,7 +12,9 @@ Davis)</a></strong>
 experiment**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Political violence – including civil war, organized crime, and violent
 extremism – is a major driver of human suffering around the world.
@@ -44,7 +44,9 @@ Fernandez-Vazquez</a></strong>
 Weberian Bureaucracy**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Academic and policy discussions regarding the bureaucracy often advocate
 for robust civil service systems, incorporating meritocratic entrance
@@ -77,7 +79,9 @@ Friday 26 April 2024 | Location TBD
 **A Rich Woman’s World? Wealth and Gendered Paths to Office**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 We introduce and seek to explain a new and surprising fact about members
 of the US Congress: since at least the 1980s, Congresswomen have been
@@ -106,7 +110,9 @@ Thursday 02 May 2024 | Seminar Room 2
 Consequences**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Politicians use a variety of psychological techniques to sway voters and
 win support in elections. For instance, politicians often attempt to
@@ -139,7 +145,9 @@ Thursday 16 May 2024 | Seminar Room 2
 **Mutual Knowledge of Social Norms and Political Activism**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Social norms are important drivers of human behavior. Problematically,
 when individuals hold incorrect beliefs about others’ opinions, a norm
@@ -175,7 +183,9 @@ Oslo)</a></strong>
 Kristiansen, University of Oslo)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Systematized information on the background of cabinet ministers across
 long time-periods and all geographical regions remains limited. Hence,
@@ -197,8 +207,7 @@ well-educated cabinet ministers.
 </details>
 <hr>
 
-Speakers during Winter 2024
----------------------------
+## Speakers during Winter 2024
 
 Thursday 18 January 2024 | Seminar Room 2
 <p>
@@ -210,7 +219,9 @@ Thursday 18 January 2024 | Seminar Room 2
 Worker**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Participatory theories of democracy posit that participating in the
 political process transforms individuals into better democratic
@@ -245,7 +256,9 @@ Thursday 25 January 2024 | Seminar Room 2
 Brunel University London)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Discrimination affects hiring, mating and voting decisions. Whilst
 discrimination in elections mainly relates to gender or race, we
@@ -274,7 +287,9 @@ Thursday 01 February 2024 | Seminar Room 2
 from 19th century France (with Stephane Wolton, LSE)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 How do immigrants respond to xenophobic violence? We study how Italian
 immigrants responded to a wave of anti-Italian violence triggered by the
@@ -307,7 +322,9 @@ from the Re-activation of Antisemitic Stereotypes in Germany (with Eylem
 Kanol, WZB)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Outgroup prejudice is frequently attributed to contemporaneous factors,
 such as economic competition and perceptions of threat. We investigate
@@ -341,7 +358,9 @@ Democratic Attitudes: Evidence from India and the United States” (with
 Nicholas Haas, Aarhus University)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Concerns about the state of democracy have surged in several countries
 amongst new evidence that many citizens do not value democratic
@@ -380,7 +399,9 @@ Paris-Dauphine; Jonathan Ladd, Georgetown U; Can Zengin, CEVIPOF &
 Temple U)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Nearly three billion people actively use Facebook, making it the largest
 social media platform in the world. Previous research shows that the
@@ -411,7 +432,9 @@ Becher (IE Madrid)</a></strong>
 Gonzalez, IE University)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 While recent research on the origins of Proportional Representation (PR)
 in Europe has focused on domestic political explanations, we bring
@@ -442,7 +465,9 @@ School)</a></strong>
 Systems**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 The share of women in politics is higher, on average, under closed-list
 proportional representation (PR) electoral systems compared to
@@ -472,7 +497,9 @@ Thursday 14 March 2024 | Seminar Room 2
 erosion**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 How does the presence of extremist parties in parliaments modify
 parliamentary norms? In this talk, I draw on two recent papers to
@@ -493,8 +520,7 @@ parliamentary norms.
 </details>
 <hr>
 
-Speakers during Fall 2023
--------------------------
+## Speakers during Fall 2023
 
 Thursday 05 October 2023 | Seminar Room 2
 <p>
@@ -512,7 +538,9 @@ Jiazhen Li, UZH; Şevval Şimşir, ETH; Iva Srbinovska, ETH; Robin Anna
 Vital, ETH; Karsten Donnay, UZH; and Fabrizio Gilardi, UZH)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Online intergroup hostility is a pervasive and troubling issue, yet
 experimental evidence on how to curb it remains scarce. This study
@@ -543,7 +571,9 @@ Thursday 12 October 2023 | Seminar Room 2
 Jacobs, UBC)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 The relative effects of economic and social change on support for
 far-right parties persistently occupies the attention of scholars and
@@ -573,7 +603,9 @@ Dahlström (University of Gothenburg)</a></strong>
 Holmgren, Örebro University)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 A large literature argues that the executive’s appointment powers may
 bestow them with a significant policy advantage against the legislature.
@@ -603,7 +635,9 @@ Zurich)</a></strong>
 Politics? (with Valentina Consiglio, University of Konstanz)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 The rise of the knowledge economy has profoundly transformed the
 political landscape. Thriving urban knowledge hubs have become almost
@@ -635,7 +669,9 @@ Thursday 02 November 2023 | Seminar Room 2
 Accountability**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 We study the effect of televised broadcasts of floor debates on the
 rhetoric and behavior of U.S. Congress Members. First, we show in a
@@ -671,7 +707,9 @@ Garbiras-Diaz (Harvard Business School)</a></strong>
 from Colombia (with Tara Slough, New York University)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 States collect vast amounts of data for use in policymaking and public
 administration. To do so, central governments frequently solicit data
@@ -701,7 +739,9 @@ Thursday 23 November 2023 | Seminar Room 2
 **Information Processing in Participatory Governance**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Participatory governance institutions often aim to yield information
 useful to policymakers, whether about public preferences, problems,
@@ -738,7 +778,9 @@ Columbia University; Peter van der Windt, New York University - Abu
 Dhabi)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 Using a field experiment implemented in Sierra Leone we examine mixed
 motives for local service providers. We find evidence consistent with
@@ -763,7 +805,9 @@ Indigenous Mexico (with Kristof Gosztonyi, Universität Osnabrück; and
 Sarah Thompson, Stanford University)**
 
 <details>
-<summary>Abstract:</summary>
+<summary>
+Abstract:
+</summary>
 <p>
 The monopoly of violence in the hands of the state is associated with
 the creation of political order. This influential vision about the
