@@ -133,9 +133,86 @@ active perpetrators of violence against one another.
 </p>
 </details>
 <hr>
-Thursday 20 March 2025 | Seminar Room 2
+Thursday 20 March 2025 | Sala Belvedere 
 <p>
 <strong><a href='https://www.vincentpons.org/'>Vincent Pons</a></strong>
+</p>
+
+**Social movements and public opinion in the United States**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Recent social movements stand out by their spontaneous nature and lack
+of stable leadership, raising doubts on their ability to generate
+political change. This article provides systematic evidence on the
+effects of protests on public opinion and political attitudes. Drawing
+on a database covering the quasi-universe of protests held in the United
+States, we identify 14 social movements that took place from 2017 to
+2022, covering topics related to environmental protection, gender
+equality, gun control, immigration, national and international politics,
+and racial issues. We use Twitter data, Google search volumes, and
+high-frequency surveys to track the evolution of online interest, policy
+views, and vote intentions before and after the outset of each movement.
+Combining national level event studies with difference-in-differences
+designs exploiting variation in local protest intensity, we find that
+protests generate substantial internet activity but have limited effects
+on political attitudes. Except for the Black Lives Matter protests
+following the death of George Floyd, which shifted views on racial
+discrimination and increased votes for the Democrats, we estimate
+precise null effects of protests on public opinion and electoral
+behaviour.
+</p>
+</details>
+<hr>
+Thursday 27 March 2025 | Seminar Room 2
+<p>
+<strong><a href='https://kasia-nalewajko.github.io/'>Kasia
+Nalewajko</a></strong>
+</p>
+
+**Designing the Holocaust: Quantitative description of the
+radicalisation of anti-Jewish violence in 1941**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Who devised the Holocaust and decided on its implementation? Most
+historians agree that the Holocaust originated during the invasion of
+the Soviet Union, before the Conference in Wannsee in January 1942.
+While Hitler’s responsibility is not put into question, scholars do
+disagree about the exact place, time and authorship of the genocide.
+This article systematically describes the violence committed in 1941 by
+Nazi Germany and their collaborators during the invasion of the USSR.
+Drawing on information from interviews with Holocaust witnesses
+meticulously conducted by an NGO Yahad-In Unum, I classify the violence
+experienced by the Jews by its degree, intent and perpetratorship. In
+line with existing historical literature, in 1941, I find considerable
+heterogeneity between the degree of violence with major, swiftly
+committed killings concentrated in contemporary Lithuania, some parts of
+Ukraine and Moldova. Conversely, large swaths of today’s territories of
+Belarus and Galicia in Ukraine did not experience mass killings until
+after the Wannsee Conference. A new and surprising finding relates to
+the lack of violence: while scholars believe that the fate of the Soviet
+Jews was “sealed” already in 1941, it turns out that the majority of
+localities did not experience any violence until after the Wannsee
+Conference. In sum, a few entrepreneurial commanders started devising
+especially sadistic, large-scale shootings already in July 1941. Those
+must have gained approval of the Nazi leadership and were implemented
+across the entire controlled territory from 1942 onwards, at the same
+time as Jews of Central and Western Europe started being transported to
+extermination camps.
+</p>
+</details>
+<hr>
+Thursday 10 April 2025 | Seminar Room 2
+<p>
+<strong><a href='https://krzyskrakowski.github.io/'>Kristof
+Krakowski</a></strong>
 </p>
 
 **TBD**
@@ -149,10 +226,94 @@ TBD
 </p>
 </details>
 <hr>
-Thursday 27 March 2025 | Seminar Room 2
+Friday 24 October 2025 | Seminar Room 2
 <p>
-<strong><a href='https://kasia-nalewajko.github.io/'>Kasia
-Nalewajko</a></strong>
+<strong><a href='https://www.gaborsimonovits.com/'>Gabor
+Simonovits</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
+Thursday 08 May 2025 | Seminar Room 2
+<p>
+<strong><a href='https://www.carlmueller-crepon.org/'>Carl
+Müller-Crepon</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
+Thursday 22 May 2025 | Seminar Room 2
+<p>
+<strong><a href='https://www.heike-kluever.com/'>Heine
+Kleuver</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
+Thursday 29 May 2025 | Seminar Room 2
+<p>
+<strong><a href='https://www.mariacarreri.com/'>Maria
+Carreri</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
+Thursday 05 June 2025 | Seminar Room 2
+<p>
+<strong><a href='https://ruthdassonneville.netlify.app/'>Ruth
+Dassoneville</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
+Thursday 12 June 2025 | Seminar Room 2
+<p>
+<strong><a href='0'>Milan Svolik</a></strong>
 </p>
 
 **TBD**
