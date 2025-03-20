@@ -215,14 +215,31 @@ Thursday 10 April 2025 | Seminar Room 2
 Krakowski</a></strong>
 </p>
 
-**TBD**
+**Local Elites and Regime Stability. Lessons from Anti-Communist
+Resistance in Post-World War II Poland**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-TBD
+Regime changes are common around the world. How do newly-established
+regimes interact with old regime elites? While pre-existing elites can
+directly challenge the new regime, their human and social capital may
+also bolster governance, indirectly reducing resistance against new
+authorities. We study foreign-imposed regime change in post-WWII Poland,
+tracing the impact of local Polish elites, including nobility,
+intellectuals, and army officers, on opposition to the Soviet-backed
+communist regime. We exploit plausibly random variation in Polish
+officers’ wartime deployment and imprisonment for causal identification.
+While most officers in Nazi captivity survived, those in Soviet
+captivity largely perished. Leveraging differences in officers’ wartime
+experiences, we find that municipalities with more surviving local
+elites experienced fewer Solidarno´s protests in the 1980s. Historical
+evidence suggests that surviving elites enhanced local economic
+development and public services, easing grievances against the communist
+regime. The economically beneficial effects of elite survival can be
+traced to this day.
 </p>
 </details>
 <hr>
