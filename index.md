@@ -19,7 +19,7 @@ Ramirez Folch](https://www.eui.eu/people?id=carmen-ramirez-folch).
 
 # Upcoming Events
 
-## Speakers during Winter 2025
+## Speakers during Winter/Spring 2025
 
 Thursday 23 January 2025 | Seminar Room 2
 <p>

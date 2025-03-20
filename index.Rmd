@@ -42,7 +42,7 @@ df$subject <- ifelse(is.na(df$subject), "TBD", df$subject)
 df <- df[!is.na(df$start_date), ]
 ```
 
-## Speakers during Winter 2025
+## Speakers during Winter/Spring 2025
 
 ```{r, results='asis'}
  df_ <- df[df$term %in% "Winter", ]
