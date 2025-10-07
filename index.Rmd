@@ -42,10 +42,10 @@ df$subject <- ifelse(is.na(df$subject), "TBD", df$subject)
 df <- df[!is.na(df$start_date), ]
 ```
 
-## Speakers during Winter/Spring 2025
+## Speakers during Autumn 2025
 
 ```{r, results='asis'}
- df_ <- df[df$term %in% "Winter", ]
+ df_ <- df[df$term %in% "Autumn", ]
 
  for (i in 1:nrow(df_)) {
    weekday <- weekdays(as.Date(df_$`start date`[i]))

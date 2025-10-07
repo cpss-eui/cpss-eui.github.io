@@ -19,34 +19,107 @@ Folch](https://www.eui.eu/people?id=carmen-ramirez-folch).
 
 # Upcoming Events
 
-## Speakers during Winter/Spring 2025
+## Speakers during Autumn 2025
 
-NA NA NA NA | NA
+Thursday 09 October 2025 | Seminar Room 2
 <p>
-<strong><a href='NA'>NA</a></strong>
+<strong><a href='https://www.marcogiani.com/'>Marco Giani</a></strong>
 </p>
 
-**NA**
+**Speaking fast and low: The acoustics of authoritarian politics**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-NA
+Do citizens embody their political institutions? We test this by
+examining whether speech reflects freedom of speech with a comparative
+political behavior approach. Using speech corpora intended for AI
+speech-to-text recognition, we show that when exogenously assigned
+sentences with political content in a discrete online environment,
+Mandarin speakers from China—an authoritarian regime with low freedom of
+speech—change the acoustics of their speech relative to Mandarin
+speakers from Taiwan—a democracy with high freedom of speech—
+controlling for both sentence and individual fixed effects. DiD
+estimates suggest that Mainland Chinese speak ‘fast and low’, increase
+their tempo and decrease their volume by and standard deviations (2
+decibels/2 seconds) relative to Taiwanese speakers, robust to using
+alternative variable or treatment definitions as well as alternative
+sampling and modelling strategies. Neither Mandarin Bots nor English
+speakers display a similar pattern. ‘Speaking fast and low’ about
+politics is a prerogative of men. Further analysis suggests that the
+gendered acoustics of authoritarian politics—which do not come up with
+traditional survey analysis—are channeled by a ‘historical legacy’
+mechanism more than by a ‘statistical discrimination’ one. Speakers with
+accents from provinces that experienced stronger repression during the
+1964 Cultural Revolution display significantly stronger stress, whereas
+speakers from coastal provinces and special economic zones speak about
+politics in a more normal manner. Authoritarianism is not only written
+in laws, memories, and institutions—it is also spoken, in hurried and
+hushed tones, every time politics comes up.
 </p>
 </details>
 <hr>
+Wednesday 11 June 2025 | Seminar Room 2
+<p>
+<strong><a href='https://www.chrishanretty.co.uk/about.html'>Chris
+Hanretty</a></strong>
+</p>
 
-    | <p><strong><a href=''></a></strong></p>
-
-------------------------------------------------------------------------
+**A generative theory of party systems**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
+I present a generative model of party systems. For a given system size
+N, the model generates shares and positions of parties on an economic
+left-right dimension. The model first generates shares with a mean
+vector as described in Taagepera and Allik (2003) drawn from a Dirichlet
+distribution as described in Cohen and Hanretty (2024). Positions are
+then drawn according to four mechanisms: (1) positions weakly centred on
+the position of the mean voter; (2) initial bimodality of the positions
+of the largest party, (3) system autoregressive positions for the
+second-largest to the last party, whereby positions of the nth party are
+repelled by the share-weighted positions of all larger parties, and (4)
+increasing dispersion with decreasing vote share. The model is trained
+on data from over 300 elections. I discuss the implications of this
+generative model for party system congruence and for polarization.
+</p>
+</details>
+<hr>
+Thursday 20 November 2025 | Seminar Room 2
+<p>
+<strong><a href='http://brandonstewart.org'>Brandon Stewart</a></strong>
+</p>
+
+**Propaganda is already influencing large language models: evidence from
+training data, audits, and real-world usage**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Abstract TBD
+</p>
+</details>
+<hr>
+Sunday 31 December 1899 | Seminar Room 2
+<p>
+<strong><a href='NA'>CPSS:</a></strong>
+</p>
+
+**Title TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Abstract TBD
 </p>
 </details>
 <hr>
