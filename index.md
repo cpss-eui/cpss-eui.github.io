@@ -107,19 +107,3 @@ Abstract TBD
 </p>
 </details>
 <hr>
-Sunday 31 December 1899 | Seminar Room 2
-<p>
-<strong><a href='NA'>CPSS:</a></strong>
-</p>
-
-**Title TBD**
-
-<details>
-<summary>
-Abstract:
-</summary>
-<p>
-Abstract TBD
-</p>
-</details>
-<hr>
