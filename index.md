@@ -61,6 +61,23 @@ hushed tones, every time politics comes up.
 </p>
 </details>
 <hr>
+Thursday 30 October 2025 | Seminar Room 2
+<p>
+<strong><a href='https://rueda.web.ox.ac.uk/home'>David
+Rueda</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
 Thursday 06 November 2025 | Seminar Room 2
 <p>
 <strong><a href='https://www.chrishanretty.co.uk/about.html'>Chris
@@ -104,23 +121,6 @@ Abstract:
 </summary>
 <p>
 Abstract TBD
-</p>
-</details>
-<hr>
-Thursday 30 October 2025 | Seminar Room 2
-<p>
-<strong><a href='https://rueda.web.ox.ac.uk/home'>David
-Rueda</a></strong>
-</p>
-
-**TBD**
-
-<details>
-<summary>
-Abstract:
-</summary>
-<p>
-TBD
 </p>
 </details>
 <hr>
