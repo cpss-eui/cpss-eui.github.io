@@ -61,7 +61,7 @@ hushed tones, every time politics comes up.
 </p>
 </details>
 <hr>
-Wednesday 11 June 2025 | Seminar Room 2
+Thursday 06 November 2025 | Seminar Room 2
 <p>
 <strong><a href='https://www.chrishanretty.co.uk/about.html'>Chris
 Hanretty</a></strong>
@@ -104,6 +104,56 @@ Abstract:
 </summary>
 <p>
 Abstract TBD
+</p>
+</details>
+<hr>
+Thursday 30 October 2025 | Seminar Room 2
+<p>
+<strong><a href='https://rueda.web.ox.ac.uk/home'>David
+Rueda</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
+Thursday 11 December 2025 | Seminar Room 2
+<p>
+<strong><a href='https://www.asyamagazinnik.com/'>Asya
+Magazinnik</a></strong>
+</p>
+
+**The Shape of Democracy: Jurisdiction Boundaries and the Siting of
+Renewable Energy Infrastructure**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Political science has long studied how the size and shape of
+jurisdictions influence representation and governance, but much less is
+known about their effects on policy outcomes. This paper addresses that
+gap by examining how local jurisdictional structure shapes the siting of
+wind turbines—a critical challenge for the green energy transition. We
+develop a theoretical model which predicts how the division of voters
+into local jurisdictions influence the siting of wind turbines (or:..
+which predicts how the geographical distribution of voters within local
+jurisdictions influence the siting of wind turbines). Using data on all
+Danish wind turbines built between 2007 and 2021, and exploiting
+Denmark’s 2007 municipal reform, which changed local boundaries while
+leaving the landscape unchanged, we show that shifts in local
+electorates strongly affect turbine siting. These results highlight how
+the political geography of local governments shapes renewable energy
+deployment, raising concerns about equity, efficiency, and democratic
+legitimacy in decentralized climate policy.
 </p>
 </details>
 <hr>
