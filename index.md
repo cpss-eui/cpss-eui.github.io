@@ -67,14 +67,41 @@ Thursday 30 October 2025 | Seminar Room 2
 Rueda</a></strong>
 </p>
 
-**TBD**
+**It’s Not Me, it’s You: Redistributive Preferences and Fairness**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-TBD
+Fairness and deservingness are core principles for the formation of
+public policy, and yet little consensus exists about how meritocracy
+should influence redistributive policies such as a generous welfare
+state or social protection. On the one hand, some policies designed to
+ensure equal representation in education, employment, and government are
+perceived as corrective measures for differences in opportunity or for
+societal injustice. On the other, these same policies can be perceived
+as unfair given they come into direct conflict with meritocracy.
+Although classical economic theory suggests that preferences for
+redistribution are simply a function of economic self-interest, a large
+body of recent work including theoretical models, empirical evidence,
+and experiments has shown that preferences are a complex mosaic
+incorporating both selfish and other-regarding considerations. While an
+influential literature has shown that individuals condition their policy
+preferences on their views of fairness and deservingness (as a function
+of how earnings are determined), none of the existing work accounts for
+the reality that outcomes may be meritocratic for some but not others.
+To close this gap, we present results from a lab experiment representing
+the first causal investigation of redistributive preferences in the
+presence of asymmetric earnings conditions. Although we find little
+evidence that asymmetry as a general characteristic affects
+redistributive preferences, we find strong evidence that fairness
+considerations are asymmetric. Our results suggest that redistributive
+preferences are only malleable for the rich and that their views of
+deservingness are determined solely by the conditions of the poor.
+Further, our findings suggest that fairness considerations are reference
+dependent and counterfactual beliefs are an important moderator of the
+relationship between fairness and redistributive preferences.
 </p>
 </details>
 <hr>
