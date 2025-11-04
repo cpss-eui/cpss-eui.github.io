@@ -7,99 +7,44 @@ X-WR-TIMEZONE:Europe/Berlin
 DESCRIPTION;ENCODING=QUOTED-PRINTABLE:
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250123T170000Z
-DTEND;TZID=Europe/Berlin:20250123T183000Z
-UID:CPSS: Jan Rovny
+DTSTART;TZID=Europe/Berlin:20251009T170000Z
+DTEND;TZID=Europe/Berlin:20251009T183000Z
+UID:CPSS: Marco Giani
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Jan Rovny
-DESCRIPTION:Title: Ethnic minorities and democratic supportnAbstract:Ethnicity and democracy are generally expected to be at odds with each other. However, studies rarely engage with the democratic preferences and minorities and fail to consider democracy as a multifaceted concept, combining majoritarian decision-making with counter-majoritarian rights protection. This project argues that ethnic minorities view democracy in light of their position within the polity. Their democratic preferences are not unidimensional, but rather depend on the specific aspect of democracy. The project investigates four core tenets of democracy: electoral democracy, liberal democracy, social rights, and people rule; as well as three oppositions to democracy: populism, illiberalism, and authoritarianism. The project demonstrates that minorities differ in their focus on distinct aspects of democracy. Minorities with a more precarious association to the majority-dominated state – eastern European historical minorities and western European Muslims – are particularly concerned about liberal democracy and social rights, while being more hesitant about electoral and popular democracy. Minorities more rooted within the existing state – western European historical minorities – show lower concern for democracy in general.
+SUMMARY:CPSS: Marco Giani
+DESCRIPTION:Title: Speaking fast and low: The acoustics of authoritarian politicsnAbstract:Do citizens embody their political institutions? We test this by examining whether speech reflects freedom of speech with a comparative political behavior approach. Using speech corpora intended for AI speech-to-text recognition, we show that when exogenously assigned sentences with political content in a discrete online environment, Mandarin speakers from China—an authoritarian regime with low freedom of speech—change the acoustics of their speech relative to Mandarin speakers from Taiwan—a democracy with high freedom of speech— controlling for both sentence and individual fixed effects. DiD estimates suggest that Mainland Chinese speak 'fast and low', increase their tempo and decrease their volume by and standard deviations (2 decibels/2 seconds) relative to Taiwanese speakers, robust to using alternative variable or treatment definitions as well as alternative sampling and modelling strategies. Neither Mandarin Bots nor English speakers display a similar pattern. 'Speaking fast and low' about politics is a prerogative of men. Further analysis suggests that the gendered acoustics of authoritarian politics—which do not come up with traditional survey analysis—are channeled by a 'historical legacy' mechanism more than by a 'statistical discrimination' one. Speakers with accents from provinces that experienced stronger repression during the 1964 Cultural Revolution display significantly stronger stress, whereas speakers from coastal provinces and special economic zones speak about politics in a more normal manner. Authoritarianism is not only written in laws, memories, and institutions—it is also spoken, in hurried and hushed tones, every time politics comes up.
+
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250213T170000Z
-DTEND;TZID=Europe/Berlin:20250213T183000Z
-UID:CPSS: Mikael Persson
+DTSTART;TZID=Europe/Berlin:20251030T170000Z
+DTEND;TZID=Europe/Berlin:20251030T183000Z
+UID:CPSS: David Rueda
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Mikael Persson
-DESCRIPTION:Title: Processing Economic Signals: Voter Responses to Growth, Unemployment, Inflation and Stock MarketsnAbstract:Economic voting theory suggests that voters reward incumbents for strong economic performance and punish them for weak performance. However, this view often ignores the multidimensional nature of the economy. Hence, we lack systematic evidence about how voters simultaneously process multiple economic signals. This study provides a comprehensive examination of how voters respond to four key economic dimensions: growth, unemployment, inflation, and stock markets. We develop a theoretical framework distinguishing between different types of economic reasoning: macroeconomic, egotropic, sociotropic, and distributive reasoning. We first use descriptive data from OECD countries to understand the economy’s dimensionality and analyze survey data from national election studies to assess the impact on economic evaluations. Finally, we present findings from survey experiments conducted in Germany, Sweden, and the United States, tailored to analyze the impact of the four economic dimensions in an ideal information setting. Our results reveal interesting patterns in how voters process economic information. Voters can discern relationships between economic dimensions and their effects on personal and economic circumstances, and distributional outcomes. Subsequently, all four signals independently affect preferences for economic policy and voting intentions. Inflation emerges as a dominant factor, shaping personal and national economic evaluations. Our findings challenge traditional approaches to economic voting by exploring how voters integrate multiple economic signals. By emphasizing the multidimensionality of economic signals, we highlight implications for democratic accountability.
+SUMMARY:CPSS: David Rueda
+DESCRIPTION:Title: It’s Not Me, it’s You: Redistributive Preferences and FairnessnAbstract:Fairness and deservingness are core principles for the formation of public policy, and yet little consensus exists about how meritocracy should influence redistributive policies such as a generous welfare state or social protection. On the one hand, some policies designed to ensure equal representation in education, employment, and government are perceived as corrective measures for differences in opportunity or for societal injustice.  On the other, these same policies can be perceived as unfair given they come into direct conflict with meritocracy. Although classical economic theory suggests that preferences for redistribution are simply a function of economic self-interest, a large body of recent work including theoretical models, empirical evidence, and experiments has shown that preferences are a complex mosaic incorporating both selfish and other-regarding considerations. While an influential literature has shown that individuals condition their policy preferences on their views of fairness and deservingness (as a function of how earnings are determined), none of the existing work accounts for the reality that outcomes may be meritocratic for some but not others. To close this gap, we present results from a lab experiment representing the first causal investigation of redistributive preferences in the presence of asymmetric earnings conditions. Although we find little evidence that asymmetry as a general characteristic affects redistributive preferences, we find strong evidence that fairness considerations are asymmetric.  Our results suggest that redistributive preferences are only malleable for the rich and that their views of deservingness are determined solely by the conditions of the poor. Further, our findings suggest that fairness considerations are reference dependent and counterfactual beliefs are an important moderator of the relationship between fairness and redistributive preferences.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250227T170000Z
-DTEND;TZID=Europe/Berlin:20250227T183000Z
-UID:CPSS: Andrea Ruggeri
+DTSTART;TZID=Europe/Berlin:20251106T170000Z
+DTEND;TZID=Europe/Berlin:20251106T183000Z
+UID:CPSS: Chris Hanretty
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Andrea Ruggeri
-DESCRIPTION:Title: Violent Civilian Agency. The logic of civilian-to-civilian killings: insights from the Korean War.nAbstract:The concept of violent civilian agency in wartime remains largely unexplored. Challenging the prevailing view of civilians as passive victims or bystanders of violence, we propose a theory of pre-emptive civilian killings to explain the motive, timing, and location of incidents where civilians proactively turn to violence against each other during conflicts. Our argument suggests that civilian-on-civilian violence primarily occurs in areas where locals have collaborated with occupying military forces. Specifically, collaborators may engage in preemptive killings of non-collaborators to prevent whistleblowing but also prevent victims’ revenge, especially as invading forces retreat and rival armed groups advance. We empirically test this theory using geocoded event data from the Korean War (1950–1953), focusing on civilian violence patterns surrounding the North Korean troops’ abrupt retreat, ordered by Kim Il-sung. Our findings reveal a significant increase in pre-emptive civilian killings following the retreat, particularly in regions with high levels of prior collaboration. This study makes three key contributions: it highlights the concept of violent agency among civilians, theorizes the conditions under which such agency emerges, and empirically tests these ideas using novel data. By shedding light on civilian behaviour in war, our work reveals how specific incentives and opportunities can lead civilians to become active perpetrators of violence against one another.
+SUMMARY:CPSS: Chris Hanretty
+DESCRIPTION:Title: A generative theory of party systemsnAbstract:I present a generative model of party systems. For a given system size N, the model generates shares and positions of parties on an economic left-right dimension. The model first generates shares with a mean vector as described in Taagepera and Allik (2003) drawn from a Dirichlet distribution as described in Cohen and Hanretty (2024). Positions are then drawn according to four mechanisms: (1) positions weakly centred on the position of the mean voter; (2) initial bimodality of the positions of the largest party, (3) system autoregressive positions for the second-largest to the last party, whereby positions of the nth party are repelled by the share-weighted positions of all larger parties, and (4) increasing dispersion with decreasing vote share. The model is trained on data from over 300 elections. I discuss the implications of this generative model for party system congruence and for polarization.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250320T170000Z
-DTEND;TZID=Europe/Berlin:20250320T183000Z
-UID:CPSS: Vincent Pons
-LOCATION:Sala Belvedere 
-SUMMARY:CPSS: Vincent Pons
-DESCRIPTION:Title: Social movements and public opinion in the United StatesnAbstract:Recent social movements stand out by their spontaneous nature and lack of stable leadership, raising doubts on their ability to generate political change. This article provides systematic evidence on the effects of protests on public opinion and political attitudes. Drawing on a database covering the quasi-universe of protests held in the United States, we identify 14 social movements that took place from 2017 to 2022, covering topics related to environmental protection, gender equality, gun control, immigration, national and international politics, and racial issues. We use Twitter data, Google search volumes, and high-frequency surveys to track the evolution of online interest, policy views, and vote intentions before and after the outset of each movement. Combining national level event studies with difference-in-differences designs exploiting variation in local protest intensity, we find that protests generate substantial internet activity but have limited effects on political attitudes. Except for the Black Lives Matter protests following the death of George Floyd, which shifted views on racial discrimination and increased votes for the Democrats, we estimate precise null effects of protests on public opinion and electoral behaviour.
+DTSTART;TZID=Europe/Berlin:20251120T170000Z
+DTEND;TZID=Europe/Berlin:20251120T183000Z
+UID:CPSS: Brandon Stewart
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Brandon Stewart
+DESCRIPTION:Title: Propaganda is already influencing large language models: evidence from training data, audits, and real-world usagenAbstract:Abstract TBD
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250327T170000Z
-DTEND;TZID=Europe/Berlin:20250327T183000Z
-UID:CPSS: Kasia Nalewajko
+DTSTART;TZID=Europe/Berlin:20251211T170000Z
+DTEND;TZID=Europe/Berlin:20251211T183000Z
+UID:CPSS: Asya Magazinnik
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Kasia Nalewajko
-DESCRIPTION:Title: Designing the Holocaust: Quantitative description of the radicalisation of anti-Jewish violence in 1941nAbstract:Who devised the Holocaust and decided on its implementation? Most historians agree that the Holocaust originated during the invasion of the Soviet Union, before the Conference in Wannsee in January 1942. While Hitler's responsibility is not put into question, scholars do disagree about the exact place, time and authorship of the genocide. This article systematically describes the violence committed in 1941 by Nazi Germany and their collaborators during the invasion of the USSR. Drawing on information from interviews with Holocaust witnesses meticulously conducted by an NGO Yahad-In Unum, I classify the violence experienced by the Jews by its degree, intent and perpetratorship. In line with existing historical literature, in 1941, I find considerable heterogeneity between the degree of violence with major, swiftly committed killings concentrated in contemporary Lithuania, some parts of Ukraine and Moldova. Conversely, large swaths of today's territories of Belarus and Galicia in Ukraine did not experience mass killings until after the Wannsee Conference. A new and surprising finding relates to the lack of violence: while scholars believe that the fate of the Soviet Jews was "sealed" already in 1941, it turns out that the majority of localities did not experience any violence until after the Wannsee Conference. In sum, a few entrepreneurial commanders started devising especially sadistic, large-scale shootings already in July 1941. Those must have gained approval of the Nazi leadership and were implemented across the entire controlled territory from 1942 onwards, at the same time as Jews of Central and Western Europe started being transported to extermination camps.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250410T170000Z
-DTEND;TZID=Europe/Berlin:20250410T183000Z
-UID:CPSS: Kristof Krakowski
-LOCATION:Seminar Room 2
-SUMMARY:CPSS: Kristof Krakowski
-DESCRIPTION:Title: Local Elites and Regime Stability. Lessons from Anti-Communist Resistance in Post-World War II PolandnAbstract:Regime changes are common around the world. How do newly-established regimes interact with old regime elites? While pre-existing elites can directly challenge the new regime, their human and social capital may also bolster governance, indirectly reducing resistance against new authorities. We study foreign-imposed regime change in post-WWII Poland, tracing the impact of local Polish elites, including nobility, intellectuals, and army officers, on opposition to the Soviet-backed communist regime. We exploit plausibly random variation in Polish officers’ wartime deployment and imprisonment for causal identification. While most officers in Nazi captivity survived, those in Soviet captivity largely perished. Leveraging differences in officers’ wartime experiences, we find that municipalities with more surviving local elites experienced fewer Solidarno´s protests in the 1980s. Historical evidence suggests that surviving elites enhanced local economic development and public services, easing grievances against the communist regime. The economically beneficial effects of elite survival can be traced to this day.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20251024T170000Z
-DTEND;TZID=Europe/Berlin:20251024T183000Z
-UID:CPSS: Gabor Simonovits
-LOCATION:Seminar Room 2
-SUMMARY:CPSS: Gabor Simonovits
-DESCRIPTION:Title: TBDnAbstract:TBD
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250508T170000Z
-DTEND;TZID=Europe/Berlin:20250508T183000Z
-UID:CPSS: Carl Müller-Crepon
-LOCATION:Seminar Room 2
-SUMMARY:CPSS: Carl Müller-Crepon
-DESCRIPTION:Title: TBDnAbstract:TBD
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250522T170000Z
-DTEND;TZID=Europe/Berlin:20250522T183000Z
-UID:CPSS: Heine Kleuver
-LOCATION:Seminar Room 2
-SUMMARY:CPSS: Heine Kleuver
-DESCRIPTION:Title: TBDnAbstract:TBD
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250529T170000Z
-DTEND;TZID=Europe/Berlin:20250529T183000Z
-UID:CPSS: Maria Carreri
-LOCATION:Seminar Room 2
-SUMMARY:CPSS: Maria Carreri
-DESCRIPTION:Title: TBDnAbstract:TBD
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250605T170000Z
-DTEND;TZID=Europe/Berlin:20250605T183000Z
-UID:CPSS: Ruth Dassoneville
-LOCATION:Seminar Room 2
-SUMMARY:CPSS: Ruth Dassoneville
-DESCRIPTION:Title: TBDnAbstract:TBD
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20250612T170000Z
-DTEND;TZID=Europe/Berlin:20250612T183000Z
-UID:CPSS: Milan Svolik
-LOCATION:Seminar Room 2
-SUMMARY:CPSS: Milan Svolik
-DESCRIPTION:Title: TBDnAbstract:TBD
+SUMMARY:CPSS: Asya Magazinnik
+DESCRIPTION:Title: The Shape of Democracy: Jurisdiction Boundaries and the Siting of Renewable Energy InfrastructurenAbstract:Political science has long studied how the size and shape of jurisdictions influence representation and governance, but much less is known about their effects on policy outcomes. This paper addresses that gap by examining how local jurisdictional structure shapes the siting of wind turbines—a critical challenge for the green energy transition. We develop a theoretical model which predicts how the division of voters into local jurisdictions influence the siting of wind turbines (or:.. which predicts how the geographical distribution of voters within local jurisdictions influence the siting of wind turbines). Using data on all Danish wind turbines built between 2007 and 2021, and exploiting Denmark’s 2007 municipal reform, which changed local boundaries while leaving the landscape unchanged, we show that shifts in local electorates strongly affect turbine siting. These results highlight how the political geography of local governments shapes renewable energy deployment, raising concerns about equity, efficiency, and democratic legitimacy in decentralized climate policy.
 END:VEVENT
 END:VCALENDAR
