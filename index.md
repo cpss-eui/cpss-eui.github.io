@@ -11,10 +11,12 @@ events](https://cpss-eui.github.io/old_events.html).
 
 The series is organized by [Elias
 Dinas](https://www.eui.eu/people?id=elias-dinas), [Simon
-Hix](https://simonhix.com//), and [Filip
+Hix](https://simonhix.com//), [Filip
 Kostelka](https://filipkostelka.com/), [Sascha
-Riaz](https://saschariaz.com/), with support by [Paloma Abril
-Poncela](https://palomaabril.github.io/) and [Carmen Ramirez
+Riaz](https://saschariaz.com/), \[Kevin Munger\]
+(<http://www.kevinmunger.com/>) and \[Tasha Fairfield\]
+(<https://tashafairfield.wixsite.com/home>) with support by [Paloma
+Abril Poncela](https://palomaabril.github.io/) and [Carmen Ramirez
 Folch](https://www.eui.eu/people?id=carmen-ramirez-folch).
 
 # Upcoming Events
