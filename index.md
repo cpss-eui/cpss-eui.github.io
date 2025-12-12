@@ -186,3 +186,29 @@ legitimacy in decentralized climate policy.
 </p>
 </details>
 <hr>
+Thursday 04 December 2025 | Seminar Room 2
+<p>
+<strong><a href='https://www.kenneth-greene.com'>Ken Greene</a></strong>
+</p>
+
+**Against the Machine: Why Party Competition Disrupts Vote Buying**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+I will present elements of my forthcoming book, Against the Machine: Why
+Party Competition Disrupts Vote Buying. The book offers a new
+partisan-competition argument that accounts for variation in the success
+and failure of vote-buying attempts better than existing institutional,
+sociological, and organizational perspectives. After giving an overview
+of the argument, I will focus on one of the three proposed
+mechanisms: 1) partisan responses to electoral gifts that put opposition
+voters out of the machines’ reach, 2) the influence of partisan
+campaigns that reduce the machine’s ability to target the optimal
+clients, or 3) partisan views of ballot secrecy that encourage
+recipients to defect from the vote-buying bargain.
+</p>
+</details>
+<hr>

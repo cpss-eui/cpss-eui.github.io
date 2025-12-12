@@ -47,4 +47,12 @@ LOCATION:Seminar Room 2
 SUMMARY:CPSS: Asya Magazinnik
 DESCRIPTION:Title: The Shape of Democracy: Jurisdiction Boundaries and the Siting of Renewable Energy InfrastructurenAbstract:Political science has long studied how the size and shape of jurisdictions influence representation and governance, but much less is known about their effects on policy outcomes. This paper addresses that gap by examining how local jurisdictional structure shapes the siting of wind turbines—a critical challenge for the green energy transition. We develop a theoretical model which predicts how the division of voters into local jurisdictions influence the siting of wind turbines (or:.. which predicts how the geographical distribution of voters within local jurisdictions influence the siting of wind turbines). Using data on all Danish wind turbines built between 2007 and 2021, and exploiting Denmark’s 2007 municipal reform, which changed local boundaries while leaving the landscape unchanged, we show that shifts in local electorates strongly affect turbine siting. These results highlight how the political geography of local governments shapes renewable energy deployment, raising concerns about equity, efficiency, and democratic legitimacy in decentralized climate policy.
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20251204T170000Z
+DTEND;TZID=Europe/Berlin:20251204T183000Z
+UID:CPSS: Ken Greene
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Ken Greene
+DESCRIPTION:Title: Against the Machine: Why Party Competition Disrupts Vote BuyingnAbstract:I will present elements of my forthcoming book, Against the Machine: Why Party Competition Disrupts Vote Buying. The book offers a new partisan-competition argument that accounts for variation in the success and failure of vote-buying attempts better than existing institutional, sociological, and organizational perspectives. After giving an overview of the argument, I will focus on one of the three proposed mechanisms: 1) partisan responses to electoral gifts that put opposition voters out of the machines’ reach, 2) the influence of partisan campaigns that reduce the machine’s ability to target the optimal clients, or 3) partisan views of ballot secrecy that encourage recipients to defect from the vote-buying bargain.
+END:VEVENT
 END:VCALENDAR
