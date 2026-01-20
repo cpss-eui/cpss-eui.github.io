@@ -13,11 +13,11 @@ The series is organized by [Elias
 Dinas](https://www.eui.eu/people?id=elias-dinas), [Simon
 Hix](https://simonhix.com//), [Filip
 Kostelka](https://filipkostelka.com/), [Sascha
-Riaz](https://saschariaz.com/), \[Kevin Munger\]
-(<http://www.kevinmunger.com/>) and \[Tasha Fairfield\]
-(<https://tashafairfield.wixsite.com/home>) with support by [Paloma
-Abril Poncela](https://palomaabril.github.io/) and [Carmen Ramirez
-Folch](https://www.eui.eu/people?id=carmen-ramirez-folch).
+Riaz](https://saschariaz.com/), [Kevin
+Munger](http://www.kevinmunger.com/) and [Tasha
+Fairfield](https://tashafairfield.wixsite.com/home) with support by
+[Yana Bochkareva](https://www.eui.eu/people?id=yana-bochkareva) and
+[John Michaelis](https://www.johnmichaelis.com).
 
 # Upcoming Events
 

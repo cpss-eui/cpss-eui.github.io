@@ -16,13 +16,13 @@ The Comparative Politics Seminar Series in the Department of Political and Socia
 
 It usually takes place on Thursdays from 17:00 to 18:30 at Seminar Room 2, in Badia Fiesolana (Fiesole). See below or sync the [calendar](webcal://raw.githubusercontent.com/cpss-eui/cpss-eui.github.io/main/events.ics) for the exact location for each meeting. See [previous events](https://cpss-eui.github.io/old_events.html). 
 
-The series is organized by [Elias Dinas](https://www.eui.eu/people?id=elias-dinas), [Simon Hix](https://simonhix.com//), [Filip Kostelka](https://filipkostelka.com/), [Sascha Riaz](https://saschariaz.com/), [Kevin Munger] (http://www.kevinmunger.com/) and [Tasha Fairfield] (https://tashafairfield.wixsite.com/home) with support by [Paloma Abril Poncela](https://palomaabril.github.io/) and [Carmen Ramirez Folch](https://www.eui.eu/people?id=carmen-ramirez-folch).
+The series is organized by [Elias Dinas](https://www.eui.eu/people?id=elias-dinas), [Simon Hix](https://simonhix.com//), [Filip Kostelka](https://filipkostelka.com/), [Sascha Riaz](https://saschariaz.com/), [Kevin Munger](http://www.kevinmunger.com/) and [Tasha Fairfield](https://tashafairfield.wixsite.com/home) with support by [Yana Bochkareva](https://www.eui.eu/people?id=yana-bochkareva) and [John Michaelis](https://www.johnmichaelis.com).
 
 
 # Upcoming Events
 
 ```{r}
-df <- readxl::read_excel("../../comparative-politics-seminar-series/speakers_2025.xlsx", sheet = 2)
+df <- readxl::read_excel("../../comparative-politics-seminar-series/speakers_2026.xlsx", sheet = 2)
 df <- df[df$Subject!="TBD",]
 
 colnames(df) <- tolower(colnames(df))
@@ -42,10 +42,10 @@ df$subject <- ifelse(is.na(df$subject), "TBD", df$subject)
 df <- df[!is.na(df$start_date), ]
 ```
 
-## Speakers during Autumn 2025
+## Speakers during Winter 2026
 
 ```{r, results='asis'}
- df_ <- df[df$term %in% "Autumn", ]
+ df_ <- df[df$term %in% "Winter", ]
 
  for (i in 1:nrow(df_)) {
    weekday <- weekdays(as.Date(df_$`start date`[i]))

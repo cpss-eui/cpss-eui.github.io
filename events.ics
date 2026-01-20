@@ -7,52 +7,99 @@ X-WR-TIMEZONE:Europe/Berlin
 DESCRIPTION;ENCODING=QUOTED-PRINTABLE:
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20251009T170000Z
-DTEND;TZID=Europe/Berlin:20251009T183000Z
-UID:CPSS: Marco Giani
+DTSTART;TZID=Europe/Berlin:20260108T170000Z
+DTEND;TZID=Europe/Berlin:20260108T183000Z
+UID:CPSS: Ben Ross Schneider
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Marco Giani
-DESCRIPTION:Title: Speaking fast and low: The acoustics of authoritarian politicsnAbstract:Do citizens embody their political institutions? We test this by examining whether speech reflects freedom of speech with a comparative political behavior approach. Using speech corpora intended for AI speech-to-text recognition, we show that when exogenously assigned sentences with political content in a discrete online environment, Mandarin speakers from China—an authoritarian regime with low freedom of speech—change the acoustics of their speech relative to Mandarin speakers from Taiwan—a democracy with high freedom of speech— controlling for both sentence and individual fixed effects. DiD estimates suggest that Mainland Chinese speak 'fast and low', increase their tempo and decrease their volume by and standard deviations (2 decibels/2 seconds) relative to Taiwanese speakers, robust to using alternative variable or treatment definitions as well as alternative sampling and modelling strategies. Neither Mandarin Bots nor English speakers display a similar pattern. 'Speaking fast and low' about politics is a prerogative of men. Further analysis suggests that the gendered acoustics of authoritarian politics—which do not come up with traditional survey analysis—are channeled by a 'historical legacy' mechanism more than by a 'statistical discrimination' one. Speakers with accents from provinces that experienced stronger repression during the 1964 Cultural Revolution display significantly stronger stress, whereas speakers from coastal provinces and special economic zones speak about politics in a more normal manner. Authoritarianism is not only written in laws, memories, and institutions—it is also spoken, in hurried and hushed tones, every time politics comes up.
-
+SUMMARY:CPSS: Ben Ross Schneider
+DESCRIPTION:Title: The peculiar politics of antitrust in Latin America: Institution building and business backlash (2000-2020)nAbstract:Policy change and institution building in antitrust in Latin America raise two main questions. First, how, in the space of only a decade (2006-2016), did 3 of the richest and largest countries – Brazil, Chile, and Mexico – build the strongest antitrust agencies and policies in the region? The answers lie mostly in international dissemination of law and best practices backed by foreign governments and firms. Second, how did big business fight back to reduce the power of these agencies? The answers here depend heavily on the varying political openings or vulnerabilities that allowed individual businesses to contest agency decisions or weaken agencies overall. These vulnerabilities arose mostly in the judiciary in Mexico and through electoral laws and campaign finance in Brazil. The political system in Chile had fewer such vulnerabilities.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20251030T170000Z
-DTEND;TZID=Europe/Berlin:20251030T183000Z
-UID:CPSS: David Rueda
+DTSTART;TZID=Europe/Berlin:20260129T170000Z
+DTEND;TZID=Europe/Berlin:20260129T183000Z
+UID:CPSS: Alexander Held
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: David Rueda
-DESCRIPTION:Title: It’s Not Me, it’s You: Redistributive Preferences and FairnessnAbstract:Fairness and deservingness are core principles for the formation of public policy, and yet little consensus exists about how meritocracy should influence redistributive policies such as a generous welfare state or social protection. On the one hand, some policies designed to ensure equal representation in education, employment, and government are perceived as corrective measures for differences in opportunity or for societal injustice.  On the other, these same policies can be perceived as unfair given they come into direct conflict with meritocracy. Although classical economic theory suggests that preferences for redistribution are simply a function of economic self-interest, a large body of recent work including theoretical models, empirical evidence, and experiments has shown that preferences are a complex mosaic incorporating both selfish and other-regarding considerations. While an influential literature has shown that individuals condition their policy preferences on their views of fairness and deservingness (as a function of how earnings are determined), none of the existing work accounts for the reality that outcomes may be meritocratic for some but not others. To close this gap, we present results from a lab experiment representing the first causal investigation of redistributive preferences in the presence of asymmetric earnings conditions. Although we find little evidence that asymmetry as a general characteristic affects redistributive preferences, we find strong evidence that fairness considerations are asymmetric.  Our results suggest that redistributive preferences are only malleable for the rich and that their views of deservingness are determined solely by the conditions of the poor. Further, our findings suggest that fairness considerations are reference dependent and counterfactual beliefs are an important moderator of the relationship between fairness and redistributive preferences.
+SUMMARY:CPSS: Alexander Held
+DESCRIPTION:Title: Eligibility Uncertainty, Race, and Future VotingnAbstract:Does a lack of information among minority citizens about whether they are eligible to register and vote in U.S. elections help explain the large and increasing racial turnout gap? In a context like the U.S. where registration and voting rules vary across states, a substantial number of Americans are likely to be deterred from voting because they think they are ineligible to register and vote. I argue that while the direct, short-term effect of such eligibility uncertainty on turnout is similar for White and minority Americans, long-term effects on future voting will be different. Not voting due to eligibility uncertainty in an earlier election will make minority Americans substantially less likely to vote in future elections than Whites, most likely by undermining their feelings of political efficacy. To test this theory, I focus on uncertainty among young Americans about whether someone needs to be 18 by the registration deadline or by Election Day to register and vote in U.S. elections. Drawing on voter file data from a large number of U.S. states and using a regression discontinuity design, I find evidence in support of my theory. Young Black Americans who do not vote in an earlier election due to eligibility uncertainty are substantially less likely to vote in future elections than young White Americans. Additional survey data provides suggestive evidence for political efficacy as a possible mechanism. At a time of heightened concerns around voter suppression, these findings highlight the need to pay more attention to restrictive voting legislations’ long-term effects on minority voter turnout.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20251106T170000Z
-DTEND;TZID=Europe/Berlin:20251106T183000Z
-UID:CPSS: Chris Hanretty
+DTSTART;TZID=Europe/Berlin:20260212T170000Z
+DTEND;TZID=Europe/Berlin:20260212T183000Z
+UID:CPSS: Tine Paulsen
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Chris Hanretty
-DESCRIPTION:Title: A generative theory of party systemsnAbstract:I present a generative model of party systems. For a given system size N, the model generates shares and positions of parties on an economic left-right dimension. The model first generates shares with a mean vector as described in Taagepera and Allik (2003) drawn from a Dirichlet distribution as described in Cohen and Hanretty (2024). Positions are then drawn according to four mechanisms: (1) positions weakly centred on the position of the mean voter; (2) initial bimodality of the positions of the largest party, (3) system autoregressive positions for the second-largest to the last party, whereby positions of the nth party are repelled by the share-weighted positions of all larger parties, and (4) increasing dispersion with decreasing vote share. The model is trained on data from over 300 elections. I discuss the implications of this generative model for party system congruence and for polarization.
+SUMMARY:CPSS: Tine Paulsen
+DESCRIPTION:Title: Ballots and Budgets: The Fiscal Consequences of Franchise ExtensionsnAbstract:Foundational political-economic theories predict that suffrage expansions should increase the tax burden, especially on the rich. However, this dynamic has proven difficult to find empirically. I argue that de facto elite control helps explain this gap: when elites are unified, they can block redistributive pressures even after democratizing reforms. In contrast, when elites are fragmented, suffrage expansion should affect taxes as expected. I test this insight by leveraging the uneven extension of suffrage in historical Norwegian municipalities, combining new data on local tax types and levels with detailed land-holding inequality. Consistent with the theory, areas with high inequality show negligible effects of suffrage on taxes, while more egalitarian areas see higher revenues and greater reliance on modern taxes, like income taxes. These findings contribute to a central debate in political economy: under which circumstances democratization affects taxation. But also to our understanding of how inter-elite dynamics can shape democratic outcomes.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20251120T170000Z
-DTEND;TZID=Europe/Berlin:20251120T183000Z
-UID:CPSS: Brandon Stewart
+DTSTART;TZID=Europe/Berlin:20260226T170000Z
+DTEND;TZID=Europe/Berlin:20260226T183000Z
+UID:CPSS: Elisa Maria Wirsching
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Brandon Stewart
-DESCRIPTION:Title: Propaganda is already influencing large language models: evidence from training data, audits, and real-world usagenAbstract:Abstract TBD
+SUMMARY:CPSS: Elisa Maria Wirsching
+DESCRIPTION:Title: TBDnAbstract:TBD
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20251211T170000Z
-DTEND;TZID=Europe/Berlin:20251211T183000Z
-UID:CPSS: Asya Magazinnik
+DTSTART;TZID=Europe/Berlin:20260312T170000Z
+DTEND;TZID=Europe/Berlin:20260312T183000Z
+UID:CPSS: Ala Alrababah
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Asya Magazinnik
-DESCRIPTION:Title: The Shape of Democracy: Jurisdiction Boundaries and the Siting of Renewable Energy InfrastructurenAbstract:Political science has long studied how the size and shape of jurisdictions influence representation and governance, but much less is known about their effects on policy outcomes. This paper addresses that gap by examining how local jurisdictional structure shapes the siting of wind turbines—a critical challenge for the green energy transition. We develop a theoretical model which predicts how the division of voters into local jurisdictions influence the siting of wind turbines (or:.. which predicts how the geographical distribution of voters within local jurisdictions influence the siting of wind turbines). Using data on all Danish wind turbines built between 2007 and 2021, and exploiting Denmark’s 2007 municipal reform, which changed local boundaries while leaving the landscape unchanged, we show that shifts in local electorates strongly affect turbine siting. These results highlight how the political geography of local governments shapes renewable energy deployment, raising concerns about equity, efficiency, and democratic legitimacy in decentralized climate policy.
+SUMMARY:CPSS: Ala Alrababah
+DESCRIPTION:Title: TBDnAbstract:TBD
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20251204T170000Z
-DTEND;TZID=Europe/Berlin:20251204T183000Z
-UID:CPSS: Ken Greene
+DTSTART;TZID=Europe/Berlin:20260409T170000Z
+DTEND;TZID=Europe/Berlin:20260409T183000Z
+UID:CPSS: Diane Bolet
 LOCATION:Seminar Room 2
-SUMMARY:CPSS: Ken Greene
-DESCRIPTION:Title: Against the Machine: Why Party Competition Disrupts Vote BuyingnAbstract:I will present elements of my forthcoming book, Against the Machine: Why Party Competition Disrupts Vote Buying. The book offers a new partisan-competition argument that accounts for variation in the success and failure of vote-buying attempts better than existing institutional, sociological, and organizational perspectives. After giving an overview of the argument, I will focus on one of the three proposed mechanisms: 1) partisan responses to electoral gifts that put opposition voters out of the machines’ reach, 2) the influence of partisan campaigns that reduce the machine’s ability to target the optimal clients, or 3) partisan views of ballot secrecy that encourage recipients to defect from the vote-buying bargain.
+SUMMARY:CPSS: Diane Bolet
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:NAT170000Z
+DTEND;TZID=Europe/Berlin:NAT183000Z
+UID:#N/A
+LOCATION:Seminar Room 2
+SUMMARY:#N/A
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:NAT170000Z
+DTEND;TZID=Europe/Berlin:NAT183000Z
+UID:#N/A
+LOCATION:Seminar Room 2
+SUMMARY:#N/A
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:NAT170000Z
+DTEND;TZID=Europe/Berlin:NAT183000Z
+UID:#N/A
+LOCATION:Seminar Room 2
+SUMMARY:#N/A
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:NAT170000Z
+DTEND;TZID=Europe/Berlin:NAT183000Z
+UID:#N/A
+LOCATION:Seminar Room 2
+SUMMARY:#N/A
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:NAT170000Z
+DTEND;TZID=Europe/Berlin:NAT183000Z
+UID:#N/A
+LOCATION:Seminar Room 2
+SUMMARY:#N/A
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:NAT170000Z
+DTEND;TZID=Europe/Berlin:NAT183000Z
+UID:#N/A
+LOCATION:Seminar Room 2
+SUMMARY:#N/A
+DESCRIPTION:Title: TBDnAbstract:TBD
 END:VEVENT
 END:VCALENDAR
