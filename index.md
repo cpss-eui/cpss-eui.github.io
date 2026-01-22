@@ -124,10 +124,43 @@ shape democratic outcomes.
 </p>
 </details>
 <hr>
-Thursday 26 February 2026 | Seminar Room 2
+Thursday 26 March 2026 | Seminar Room 2
 <p>
 <strong><a href='https://elisawirsching.github.io/'>Elisa Maria
 Wirsching</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
+Thursday 12 March 2026 | Seminar Room 2
+<p>
+<strong><a href='https://www.ala-alrababah.com/'>Ala
+Alrababah</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
+Thursday 09 April 2026 | Seminar Room 2
+<p>
+<strong><a href='https://www.dianebolet.com/'>Diane Bolet</a></strong>
 </p>
 
 **TBD**
