@@ -31,19 +31,19 @@ SUMMARY:CPSS: Tine Paulsen
 DESCRIPTION:Title: Ballots and Budgets: The Fiscal Consequences of Franchise ExtensionsnAbstract:Foundational political-economic theories predict that suffrage expansions should increase the tax burden, especially on the rich. However, this dynamic has proven difficult to find empirically. I argue that de facto elite control helps explain this gap: when elites are unified, they can block redistributive pressures even after democratizing reforms. In contrast, when elites are fragmented, suffrage expansion should affect taxes as expected. I test this insight by leveraging the uneven extension of suffrage in historical Norwegian municipalities, combining new data on local tax types and levels with detailed land-holding inequality. Consistent with the theory, areas with high inequality show negligible effects of suffrage on taxes, while more egalitarian areas see higher revenues and greater reliance on modern taxes, like income taxes. These findings contribute to a central debate in political economy: under which circumstances democratization affects taxation. But also to our understanding of how inter-elite dynamics can shape democratic outcomes.
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20260326T170000Z
-DTEND;TZID=Europe/Berlin:20260326T183000Z
-UID:CPSS: Elisa Maria Wirsching
-LOCATION:Seminar Room 2
-SUMMARY:CPSS: Elisa Maria Wirsching
-DESCRIPTION:Title: TBDnAbstract:TBD
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20260312T170000Z
 DTEND;TZID=Europe/Berlin:20260312T183000Z
 UID:CPSS: Ala Alrababah
 LOCATION:Seminar Room 2
 SUMMARY:CPSS: Ala Alrababah
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20260326T170000Z
+DTEND;TZID=Europe/Berlin:20260326T183000Z
+UID:CPSS: Elisa Maria Wirsching
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Elisa Maria Wirsching
 DESCRIPTION:Title: TBDnAbstract:TBD
 END:VEVENT
 BEGIN:VEVENT
