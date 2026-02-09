@@ -130,14 +130,29 @@ Thursday 12 March 2026 | Seminar Room 2
 Alrababah</a></strong>
 </p>
 
-**TBD**
+**Cycling through Elections: The Political Consequences of the Tour de
+France**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-TBD
+Do place-based interventions that raise visibility and economic activity
+affect far-right voting? We study the Tour de France (TdF) as a case of
+brief but visible exposure that combines economic activity with symbolic
+recognition. Using variation in the annual TdF route between 2002 and
+2022, we show that exposed municipalities experience declines in
+far-right support of 0.03–0.04 standard deviations. The effect exceeds
+0.1 standard deviations in recent elections and is strongest in poorer
+areas and in towns with high prior far-right support. We find evidence
+consistent with the symbolic mechanism and mixed evidence for the
+economic one. TdF exposure increases local GDP per capita, effects on
+voting are larger when French riders win stages, and a two-wave survey
+around the 2025 TdF provides suggestive evidence that residents in
+exposed towns report greater recognition. These results contribute to
+research on geographic inequalities, symbolic politics, and the
+consequences of place-based interventions.
 </p>
 </details>
 <hr>
