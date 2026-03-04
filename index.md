@@ -189,3 +189,20 @@ TBD
 </p>
 </details>
 <hr>
+Thursday 21 May 2026 | Seminar Room 2
+<p>
+<strong><a href='https://sites.google.com/view/italocolantone'>Italo
+Colantone</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
