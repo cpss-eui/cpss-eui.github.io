@@ -162,14 +162,33 @@ Thursday 26 March 2026 | Seminar Room 2
 Wirsching</a></strong>
 </p>
 
-**TBD**
+**The Political Consequences of Police Slowdowns**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-TBD
+Police resistance has become an important phenomenon in American cities,
+where officers and their unions strategically threaten opposition and
+reduce service quality to shape political outcomes. Yet systematic
+evidence on whether resistance effectively influences political behavior
+and electoral accountability remains scarce. Using a vignette survey
+experiment, we examine how voters respond to signals of
+police-politician misalignment and service quality outcomes following
+hypothetical reforms. We find that poor service quality significantly
+reduces support for both reforms and incumbents. Additionally,
+police-politician misalignment imposes independent electoral costs on
+politicians regardless of actual service outcomes. We complement these
+findings with a unique survey of 500 US local elected officials. A
+plurality of officials expect constituents to hold them primarily
+responsible for declines in proactive policing, and 18% report having
+experienced resistance through shirking. Experimentally induced threats
+of resistance significantly reduce officials’ own support for reform.
+Together, these findings reveal a dual mechanism of bureaucratic
+leverage: credible threats generate anticipatory political costs before
+implementation, while actual service deterioration damages incumbents
+electorally afterward.
 </p>
 </details>
 <hr>
@@ -193,6 +212,40 @@ Thursday 21 May 2026 | Seminar Room 2
 <p>
 <strong><a href='https://sites.google.com/view/italocolantone'>Italo
 Colantone</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
+Thursday 04 June 2026 | Seminar Room 2
+<p>
+<strong><a href='https://sites.google.com/view/kristinabsimonsen/home'>Kristina
+Bakkær Simonsen</a></strong>
+</p>
+
+**TBD**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+TBD
+</p>
+</details>
+<hr>
+Thursday 11 June 2026 | Seminar Room 2
+<p>
+<strong><a href='https://www.danbischof.com/'>Daniel
+Bischof</a></strong>
 </p>
 
 **TBD**

@@ -44,7 +44,7 @@ DTEND;TZID=Europe/Berlin:20260326T183000Z
 UID:CPSS: Elisa Maria Wirsching
 LOCATION:Seminar Room 2
 SUMMARY:CPSS: Elisa Maria Wirsching
-DESCRIPTION:Title: TBDnAbstract:TBD
+DESCRIPTION:Title: The Political Consequences of Police SlowdownsnAbstract:Police resistance has become an important phenomenon in American cities, where officers and their unions strategically threaten opposition and reduce service quality to shape political outcomes. Yet systematic evidence on whether resistance effectively influences political behavior and electoral accountability remains scarce. Using a vignette survey experiment, we examine how voters respond to signals of police-politician misalignment and service quality outcomes following hypothetical reforms. We find that poor service quality significantly reduces support for both reforms and incumbents. Additionally, police-politician misalignment imposes independent electoral costs on politicians regardless of actual service outcomes. We complement these findings with a unique survey of 500 US local elected officials. A plurality of officials expect constituents to hold them primarily responsible for declines in proactive policing, and 18% report having experienced resistance through shirking. Experimentally induced threats of resistance significantly reduce officials' own support for reform. Together, these findings reveal a dual mechanism of bureaucratic leverage: credible threats generate anticipatory political costs before implementation, while actual service deterioration damages incumbents electorally afterward.
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20260409T170000Z
@@ -60,6 +60,22 @@ DTEND;TZID=Europe/Berlin:20260521T183000Z
 UID:CPSS: Italo Colantone
 LOCATION:Seminar Room 2
 SUMMARY:CPSS: Italo Colantone
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20260604T170000Z
+DTEND;TZID=Europe/Berlin:20260604T183000Z
+UID:CPSS: Kristina Bakkær Simonsen
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Kristina Bakkær Simonsen
+DESCRIPTION:Title: TBDnAbstract:TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20260611T170000Z
+DTEND;TZID=Europe/Berlin:20260611T183000Z
+UID:CPSS: Daniel Bischof
+LOCATION:Seminar Room 2
+SUMMARY:CPSS: Daniel Bischof
 DESCRIPTION:Title: TBDnAbstract:TBD
 END:VEVENT
 END:VCALENDAR
