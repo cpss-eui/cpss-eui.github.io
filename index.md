@@ -197,14 +197,34 @@ Thursday 09 April 2026 | Seminar Room 2
 <strong><a href='https://www.dianebolet.com/'>Diane Bolet</a></strong>
 </p>
 
-**TBD**
+**The Globalization Backlash in Rural Areas:Price Shocks, Far Right
+Support, and the Limits of Agricultural Subsidies**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-TBD
+In recent years, the world has witnessed a growing backlash against
+globalization, yet the policy responses to this shift remain poorly
+understood. This paper examines how economic volatility shapes political
+behavior in rural farming areas and whether redistributive policies can
+moderate its effects. We argue that sharp declines in the prices of
+locally produced agricultural goods increase support for radical right
+parties among rural residents, reflecting a shift toward protectionist
+preferences. We test this argument in France (2008–2022) using a
+shift–share instrument that leverages global commodity price trends and
+local production patterns to identify the causal effect of agricultural
+price shocks on electoral outcomes. We then assess the moderating role
+of farmers’ subsidies under the EU’s Common Agricultural Policy (CAP).
+We find that while CAP funding helps cushion economic insecurity, it
+does not fully offset the political consequences of price declines. An
+original survey of 1,542 farmers shows that place-based grievances and
+perceived status loss are strongly correlated with concerns about price
+declines, underscoring the limits of redistribution alone. The study
+contributes to debates on the political fallout of globalization by
+demonstrating that effective responses must address both the economic
+and cultural dimensions of rural discontent.
 </p>
 </details>
 <hr>
