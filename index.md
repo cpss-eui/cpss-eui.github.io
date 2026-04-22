@@ -234,14 +234,30 @@ Thursday 21 May 2026 | Seminar Room 2
 Colantone</a></strong>
 </p>
 
-**TBD**
+**Green Collars at the Voting Booth: Material Interest and Environmental
+Voting**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-TBD
+We study how occupation-related material interest affects environmental
+voting. Specifically, material interest hinges on the greenness
+vs. brownness of individual occupational profiles. That is, on the
+extent to which individuals are expected to benefit vs. lose in a
+greener economy. We employ individual-level data from 14 western
+European countries, over 2010-2019. To measure the greenness and
+brownness of occupational profiles, for each individual we compute
+predicted greenness and brownness scores based on the predicted
+probabilities to be employed in each possible occupation. These
+probabilities are combined with occupation-specific greenness and
+brownness scores. Individuals characterized by higher predicted
+brownness are less likely to vote for Green parties and for parties with
+a more environmentalist agenda, while the opposite holds for individuals
+characterized by higher predicted greenness. Voting preferences of brown
+profiles tend to converge towards those of greener profiles in regions
+that are better placed to gain from the green transition.
 </p>
 </details>
 <hr>
