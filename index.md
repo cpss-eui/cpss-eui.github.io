@@ -267,14 +267,31 @@ Thursday 04 June 2026 | Seminar Room 2
 Bakkær Simonsen</a></strong>
 </p>
 
-**TBD**
+**Politics is Power? Youth Conceptions and their Gendered Implications**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-TBD
+In academic writing and popular discourse, politics is often presented
+as a power game. Because power is culturally constructed as masculine,
+the association of politics with power is believed to repel women from
+and attract men to the political field. While prior research has
+examined such gendered implications from a framing perspective, this
+study takes a step back to ask: How do ordinary citizens themselves
+conceive of politics? Is politics power in citizens’ minds? These
+questions are particularly pertinent for young people, as political
+socialization and political career aspirations take shape during early
+adulthood. Using open-ended survey responses, I therefore analyze the
+semantic similarity of young people’s descriptions of politics and
+power, and I assess how associating politics with power may shape its
+perceived attractiveness to young men and women. Situating the study in
+the US, Germany, and Denmark—countries that differ markedly in women’s
+political representation—the study delivers unique insights into how
+politics is conceived in young people’s minds, with potential
+implications for understanding persistent gender gaps in political
+representation.
 </p>
 </details>
 <hr>
