@@ -228,36 +228,36 @@ and cultural dimensions of rural discontent.
 </p>
 </details>
 <hr>
-Thursday 21 May 2026 | Seminar Room 2
+Thursday 28 May 2026 | Seminar Room 2
 <p>
-<strong><a href='https://sites.google.com/view/italocolantone'>Italo
-Colantone</a></strong>
+<strong><a href='https://www.leonidpeisakhin.org/'>Leonid
+Peisakhin</a></strong>
 </p>
 
-**Green Collars at the Voting Booth: Material Interest and Environmental
-Voting**
+**The (In)Effectiveness of Authoritarian Reform: The Case of Russian
+Commercial Courts**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-We study how occupation-related material interest affects environmental
-voting. Specifically, material interest hinges on the greenness
-vs. brownness of individual occupational profiles. That is, on the
-extent to which individuals are expected to benefit vs. lose in a
-greener economy. We employ individual-level data from 14 western
-European countries, over 2010-2019. To measure the greenness and
-brownness of occupational profiles, for each individual we compute
-predicted greenness and brownness scores based on the predicted
-probabilities to be employed in each possible occupation. These
-probabilities are combined with occupation-specific greenness and
-brownness scores. Individuals characterized by higher predicted
-brownness are less likely to vote for Green parties and for parties with
-a more environmentalist agenda, while the opposite holds for individuals
-characterized by higher predicted greenness. Voting preferences of brown
-profiles tend to converge towards those of greener profiles in regions
-that are better placed to gain from the green transition.
+There is a general agreement in the literature that entrenched
+authoritarians ensure institutional compliance through reforms that
+curtail institutional independence. We put this assumption to the test
+in the context of the reform of the arbitrazh court system in Russia. In
+August 2014, Russia’s famously independent highest arbitrazh court was
+abolished, and lower level arbitrazh courts were brought under the
+purview of the much more politically pliant High Court. Examining
+regional arbitrazh court rulings before and after the reform – several
+million cases in total – we find that the reform resulted in a backlash
+against the federal government, whereby arbitrazh judges became less
+likely to side with the state in commercial disputes. Interestingly, the
+backlash was more pronounced among the best educated and most
+institutionally entrenched judges. These findings suggest a corrective
+to the literature on the effectiveness of authoritarian reforms. Agents
+of the authoritarian government can lash out against reforms that they
+consider unfair and punitive, hence undermining their effectiveness.
 </p>
 </details>
 <hr>
@@ -301,14 +301,28 @@ Thursday 11 June 2026 | Seminar Room 2
 Bischof</a></strong>
 </p>
 
-**TBD**
+**Social norm interventions increase resistance to real-world
+anti-democratic elite behavior**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-TBD
+Can social norm interventions increase resistance to anti-democratic
+tendencies? This paper presents evidence from a two-wave experimental
+study conducted in five countries. We develop a social norms
+intervention based on the first wave and deploy it against real-world
+instances of anti-democratic elite behavior in the second wave,
+presenting messages that reflect strong public opposition along with the
+most frequent justifications for rejecting the behavior extracted by
+large language models (LLMs). We find that this social norm intervention
+increases individual opposition to real-world anti-democratic practices
+by elites and even reduces vote intention for the real-world
+undemocratic perpetrator. Our findings demonstrate the potential of
+norm-based messaging to strengthen democratic resilience and counteract
+the normalization of authoritarian practices, even in politically
+polarized environments.
 </p>
 </details>
 <hr>
