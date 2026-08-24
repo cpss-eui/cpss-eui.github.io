@@ -12,12 +12,11 @@ events](https://cpss-eui.github.io/old_events.html).
 The series is organized by [Elias
 Dinas](https://www.eui.eu/people?id=elias-dinas), [Simon
 Hix](https://simonhix.com//), [Filip
-Kostelka](https://filipkostelka.com/), [Sascha
-Riaz](https://saschariaz.com/), [Kevin
+Kostelka](https://filipkostelka.com/), [Kevin
 Munger](http://www.kevinmunger.com/) and [Tasha
 Fairfield](https://tashafairfield.wixsite.com/home) with support by
-[Yana Bochkareva](https://www.eui.eu/people?id=yana-bochkareva) and
-[John Michaelis](https://www.johnmichaelis.com).
+[Fabian Pawelczyk](https://bsky.app/profile/fpawel.bsky.social) and
+[Raluca Toma](https://www.eui.eu/people?id=raluca-toma).
 
 # Upcoming Events
 
