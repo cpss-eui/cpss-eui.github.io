@@ -15,6 +15,28 @@ knitr::opts_chunk$set(
 # Past events
 
 ```{r}
+df26 <- readxl::read_excel("../../comparative-politics-seminar-series/speakers_2026.xlsx", sheet = 2)
+colnames(df26) <- trimws(tolower(colnames(df26)))
+df26 <- df26[!is.na(df26$subject) & df26$term %in% "Winter", ]
+df26$subject <- gsub("CPSS: ", "", df26$subject)
+df26$title <- ifelse(df26$title != "0", df26$title, "Title TBD")
+df26$abstract <- ifelse(df26$abstract != "0", df26$abstract, "Abstract TBD")
+```
+
+## Speakers during Winter 2026
+
+```{r, results='asis'}
+for (i in seq_len(nrow(df26))) {
+  day <- as.Date(df26$`start date`[i])
+  cat(paste0(weekdays(day), " ", format(day, "%d %B %Y"), " | ", df26$location[i],
+             "<p><strong><a href='", df26$website[i], "'>", df26$subject[i], "</a></strong></p>\n\n",
+             "**", df26$title[i], "**\n\n",
+             "<details><summary>Abstract:</summary><p>", df26$abstract[i], "</p></details>\n\n",
+             "<hr>\n\n"))
+}
+```
+
+```{r}
 df <- readxl::read_excel("../../comparative-politics-seminar-series/speakers_2023.xlsx", sheet = 2)
 df <- df[df$Subject!="TBD",]
 

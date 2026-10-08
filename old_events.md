@@ -1,5 +1,311 @@
 # Past events
 
+## Speakers during Winter 2026
+
+Thursday 08 January 2026 | Seminar Room 2
+<p>
+<strong><a href='https://benrossschneider.com/'>Ben Ross
+Schneider</a></strong>
+</p>
+
+**The peculiar politics of antitrust in Latin America: Institution
+building and business backlash (2000-2020)**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Policy change and institution building in antitrust in Latin America
+raise two main questions. First, how, in the space of only a decade
+(2006-2016), did 3 of the richest and largest countries – Brazil, Chile,
+and Mexico – build the strongest antitrust agencies and policies in the
+region? The answers lie mostly in international dissemination of law and
+best practices backed by foreign governments and firms. Second, how did
+big business fight back to reduce the power of these agencies? The
+answers here depend heavily on the varying political openings or
+vulnerabilities that allowed individual businesses to contest agency
+decisions or weaken agencies overall. These vulnerabilities arose mostly
+in the judiciary in Mexico and through electoral laws and campaign
+finance in Brazil. The political system in Chile had fewer such
+vulnerabilities.
+</p>
+</details>
+<hr>
+Thursday 29 January 2026 | Seminar Room 2
+<p>
+<strong><a href='https://sites.google.com/site/alexandergmheld/'>Alexander
+Held</a></strong>
+</p>
+
+**Eligibility Uncertainty, Race, and Future Voting**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Does a lack of information among minority citizens about whether they
+are eligible to register and vote in U.S. elections help explain the
+large and increasing racial turnout gap? In a context like the U.S.
+where registration and voting rules vary across states, a substantial
+number of Americans are likely to be deterred from voting because they
+think they are ineligible to register and vote. I argue that while the
+direct, short-term effect of such eligibility uncertainty on turnout is
+similar for White and minority Americans, long-term effects on future
+voting will be different. Not voting due to eligibility uncertainty in
+an earlier election will make minority Americans substantially less
+likely to vote in future elections than Whites, most likely by
+undermining their feelings of political efficacy. To test this theory, I
+focus on uncertainty among young Americans about whether someone needs
+to be 18 by the registration deadline or by Election Day to register and
+vote in U.S. elections. Drawing on voter file data from a large number
+of U.S. states and using a regression discontinuity design, I find
+evidence in support of my theory. Young Black Americans who do not vote
+in an earlier election due to eligibility uncertainty are substantially
+less likely to vote in future elections than young White Americans.
+Additional survey data provides suggestive evidence for political
+efficacy as a possible mechanism. At a time of heightened concerns
+around voter suppression, these findings highlight the need to pay more
+attention to restrictive voting legislations’ long-term effects on
+minority voter turnout.
+</p>
+</details>
+<hr>
+Thursday 12 February 2026 | Seminar Room 2
+<p>
+<strong><a href='https://www.tinepaulsen.com/'>Tine Paulsen</a></strong>
+</p>
+
+**Ballots and Budgets: The Fiscal Consequences of Franchise Extensions**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Foundational political-economic theories predict that suffrage
+expansions should increase the tax burden, especially on the rich.
+However, this dynamic has proven difficult to find empirically. I argue
+that de facto elite control helps explain this gap: when elites are
+unified, they can block redistributive pressures even after
+democratizing reforms. In contrast, when elites are fragmented, suffrage
+expansion should affect taxes as expected. I test this insight by
+leveraging the uneven extension of suffrage in historical Norwegian
+municipalities, combining new data on local tax types and levels with
+detailed land-holding inequality. Consistent with the theory, areas with
+high inequality show negligible effects of suffrage on taxes, while more
+egalitarian areas see higher revenues and greater reliance on modern
+taxes, like income taxes. These findings contribute to a central debate
+in political economy: under which circumstances democratization affects
+taxation. But also to our understanding of how inter-elite dynamics can
+shape democratic outcomes.
+</p>
+</details>
+<hr>
+Thursday 12 March 2026 | Seminar Room 2
+<p>
+<strong><a href='https://www.ala-alrababah.com/'>Ala
+Alrababah</a></strong>
+</p>
+
+**Cycling through Elections: The Political Consequences of the Tour de
+France**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Do place-based interventions that raise visibility and economic activity
+affect far-right voting? We study the Tour de France (TdF) as a case of
+brief but visible exposure that combines economic activity with symbolic
+recognition. Using variation in the annual TdF route between 2002 and
+2022, we show that exposed municipalities experience declines in
+far-right support of 0.03–0.04 standard deviations. The effect exceeds
+0.1 standard deviations in recent elections and is strongest in poorer
+areas and in towns with high prior far-right support. We find evidence
+consistent with the symbolic mechanism and mixed evidence for the
+economic one. TdF exposure increases local GDP per capita, effects on
+voting are larger when French riders win stages, and a two-wave survey
+around the 2025 TdF provides suggestive evidence that residents in
+exposed towns report greater recognition. These results contribute to
+research on geographic inequalities, symbolic politics, and the
+consequences of place-based interventions.
+</p>
+</details>
+<hr>
+Thursday 26 March 2026 | Seminar Room 2
+<p>
+<strong><a href='https://elisawirsching.github.io/'>Elisa Maria
+Wirsching</a></strong>
+</p>
+
+**The Political Consequences of Police Slowdowns**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Police resistance has become an important phenomenon in American cities,
+where officers and their unions strategically threaten opposition and
+reduce service quality to shape political outcomes. Yet systematic
+evidence on whether resistance effectively influences political behavior
+and electoral accountability remains scarce. Using a vignette survey
+experiment, we examine how voters respond to signals of
+police-politician misalignment and service quality outcomes following
+hypothetical reforms. We find that poor service quality significantly
+reduces support for both reforms and incumbents. Additionally,
+police-politician misalignment imposes independent electoral costs on
+politicians regardless of actual service outcomes. We complement these
+findings with a unique survey of 500 US local elected officials. A
+plurality of officials expect constituents to hold them primarily
+responsible for declines in proactive policing, and 18% report having
+experienced resistance through shirking. Experimentally induced threats
+of resistance significantly reduce officials’ own support for reform.
+Together, these findings reveal a dual mechanism of bureaucratic
+leverage: credible threats generate anticipatory political costs before
+implementation, while actual service deterioration damages incumbents
+electorally afterward.
+</p>
+</details>
+<hr>
+Thursday 09 April 2026 | Seminar Room 2
+<p>
+<strong><a href='https://www.dianebolet.com/'>Diane Bolet</a></strong>
+</p>
+
+**The Globalization Backlash in Rural Areas:Price Shocks, Far Right
+Support, and the Limits of Agricultural Subsidies**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+In recent years, the world has witnessed a growing backlash against
+globalization, yet the policy responses to this shift remain poorly
+understood. This paper examines how economic volatility shapes political
+behavior in rural farming areas and whether redistributive policies can
+moderate its effects. We argue that sharp declines in the prices of
+locally produced agricultural goods increase support for radical right
+parties among rural residents, reflecting a shift toward protectionist
+preferences. We test this argument in France (2008–2022) using a
+shift–share instrument that leverages global commodity price trends and
+local production patterns to identify the causal effect of agricultural
+price shocks on electoral outcomes. We then assess the moderating role
+of farmers’ subsidies under the EU’s Common Agricultural Policy (CAP).
+We find that while CAP funding helps cushion economic insecurity, it
+does not fully offset the political consequences of price declines. An
+original survey of 1,542 farmers shows that place-based grievances and
+perceived status loss are strongly correlated with concerns about price
+declines, underscoring the limits of redistribution alone. The study
+contributes to debates on the political fallout of globalization by
+demonstrating that effective responses must address both the economic
+and cultural dimensions of rural discontent.
+</p>
+</details>
+<hr>
+Thursday 28 May 2026 | Seminar Room 2
+<p>
+<strong><a href='https://www.leonidpeisakhin.org/'>Leonid
+Peisakhin</a></strong>
+</p>
+
+**The (In)Effectiveness of Authoritarian Reform: The Case of Russian
+Commercial Courts**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+There is a general agreement in the literature that entrenched
+authoritarians ensure institutional compliance through reforms that
+curtail institutional independence. We put this assumption to the test
+in the context of the reform of the arbitrazh court system in Russia. In
+August 2014, Russia’s famously independent highest arbitrazh court was
+abolished, and lower level arbitrazh courts were brought under the
+purview of the much more politically pliant High Court. Examining
+regional arbitrazh court rulings before and after the reform – several
+million cases in total – we find that the reform resulted in a backlash
+against the federal government, whereby arbitrazh judges became less
+likely to side with the state in commercial disputes. Interestingly, the
+backlash was more pronounced among the best educated and most
+institutionally entrenched judges. These findings suggest a corrective
+to the literature on the effectiveness of authoritarian reforms. Agents
+of the authoritarian government can lash out against reforms that they
+consider unfair and punitive, hence undermining their effectiveness.
+</p>
+</details>
+<hr>
+Thursday 04 June 2026 | Seminar Room 2
+<p>
+<strong><a href='https://sites.google.com/view/kristinabsimonsen/home'>Kristina
+Bakkær Simonsen</a></strong>
+</p>
+
+**Politics is Power? Youth Conceptions and their Gendered Implications**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+In academic writing and popular discourse, politics is often presented
+as a power game. Because power is culturally constructed as masculine,
+the association of politics with power is believed to repel women from
+and attract men to the political field. While prior research has
+examined such gendered implications from a framing perspective, this
+study takes a step back to ask: How do ordinary citizens themselves
+conceive of politics? Is politics power in citizens’ minds? These
+questions are particularly pertinent for young people, as political
+socialization and political career aspirations take shape during early
+adulthood. Using open-ended survey responses, I therefore analyze the
+semantic similarity of young people’s descriptions of politics and
+power, and I assess how associating politics with power may shape its
+perceived attractiveness to young men and women. Situating the study in
+the US, Germany, and Denmark—countries that differ markedly in women’s
+political representation—the study delivers unique insights into how
+politics is conceived in young people’s minds, with potential
+implications for understanding persistent gender gaps in political
+representation.
+</p>
+</details>
+<hr>
+Thursday 11 June 2026 | Seminar Room 2
+<p>
+<strong><a href='https://www.danbischof.com/'>Daniel
+Bischof</a></strong>
+</p>
+
+**Social norm interventions increase resistance to real-world
+anti-democratic elite behavior**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Can social norm interventions increase resistance to anti-democratic
+tendencies? This paper presents evidence from a two-wave experimental
+study conducted in five countries. We develop a social norms
+intervention based on the first wave and deploy it against real-world
+instances of anti-democratic elite behavior in the second wave,
+presenting messages that reflect strong public opposition along with the
+most frequent justifications for rejecting the behavior extracted by
+large language models (LLMs). We find that this social norm intervention
+increases individual opposition to real-world anti-democratic practices
+by elites and even reduces vote intention for the real-world
+undemocratic perpetrator. Our findings demonstrate the potential of
+norm-based messaging to strengthen democratic resilience and counteract
+the normalization of authoritarian practices, even in politically
+polarized environments.
+</p>
+</details>
+<hr>
+
 ## Speakers during Spring 2024
 
 Thursday 04 April 2024 | Seminar Room 2
