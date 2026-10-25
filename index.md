@@ -62,14 +62,27 @@ Thursday 29 October 2026 | Sala del Capitolo
 Slothuus</a></strong>
 </p>
 
-**Title TBD**
+**What’s in a Cue? Party Reputations, Policy Substance, and the Meaning
+of Party Cue Effects**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-Abstract TBD
+Citizens are often blamed for adopting their party’s stance without
+considering policy substance. Yet existing research has neglected how
+party cues shape what citizens are judging. We argue that citizens use
+party cues to make inferences about policy substance by drawing on a
+party’s policy reputation—shared knowledge of what the party stands for
+and whom it represents. In six experiments from the United States and
+Denmark, we find that switching the party sponsor of a policy
+consistently changes what citizens believe the policy will do and whom
+it will benefit. These inferences align with a party’s reputation in a
+given issue domain, deepen with prior knowledge, change similarly across
+partisan groups and vary with policy opinions. Our findings support a
+reputational theory of party cues, suggesting that citizens’ responses
+to party cues are more policy-driven than extant research recognizes.
 </p>
 </details>
 <hr>
@@ -137,6 +150,38 @@ Abstract:
 </summary>
 <p>
 Abstract TBD
+</p>
+</details>
+<hr>
+
+## Speakers during Spring 2027
+
+Thursday 28 January 2027 | Room TBC
+<p>
+<strong><a href='https://www.uva.nl/en/profile/s/c/g.schumacher/g.schumacher.html'>Gijs
+Schumacher</a></strong>
+</p>
+
+**Broadening the Recipe to Strengthen Democracy**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Deep concerns about the ability of democracies to cope with
+polarization, political violence, and anti-democratic attitudes have
+motivated social scientists to develop interventions that strengthen
+democracy. The emerging evidence base has impact on policy globally but
+is predominantly based on American findings. To strengthen democracies,
+we need a broader evidence base. To this end, we conducted an
+intervention tournament (14 interventions, 23,146 participants) in a
+very different democracy – the Netherlands. Some successful
+interventions in the US replicate, with others failing to replicate. We
+identify a newly constructed narrative-based intervention as the most
+successful in strengthening democracy. By developing a theoretical
+framework to compare interventions and innovations in our research
+design we lay the groundwork for a global intervention tournament.
 </p>
 </details>
 <hr>
