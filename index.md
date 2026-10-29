@@ -92,14 +92,35 @@ Thursday 12 November 2026 | Seminar Room 2
 Paglayan</a></strong>
 </p>
 
-**Title TBD**
+**Exceptional Nation: Populism, Human Capital, and Argentina’s Long-Run
+Economic Decline**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-Abstract TBD
+Argentina’s long-run economic decline has puzzled social scientists for
+decades. While the macroeconomic roots of this decline have received
+extensive attention, this project considers an underexplored
+explanation: the political economy of education policies, given the
+importance of human capital for sustained economic development. Using
+original data on curriculum and teacher policies from 1870 to 2015, I
+document three critical junctures between 1947 and 1954, all during
+Perón’s administration: (1) the national curriculum drastically reduced
+its emphasis on teaching productivity-enhancing math and science skills
+in favor of teaching moral values; (2) entry into the teaching
+profession became less selective and less meritocratic; and (3) teacher
+salaries plummeted, reducing the attractiveness of the profession for
+members of the middle and upper classes. A new measure of education
+quality, also constructed from 1870 to 2015, provides additional
+evidence that Argentina’s human capital stagnation began during Perón’s
+administration. Drawing on qualitative evidence and text analysis of
+primary sources, I argue that Perón’s effort to build working-class
+support led him to reform the curriculum and reshape teaching as a
+source of patronage, lowering entry standards and salaries in ways that,
+contrary to his stated egalitarian commitments, persistently reduced the
+quality of primary education.
 </p>
 </details>
 <hr>
@@ -142,14 +163,24 @@ Thursday 26 November 2026 | Seminar Room 2
 Satyanath</a></strong>
 </p>
 
-**Title TBD**
+**Winner Gains, Loser Losses, and the Peacefulness of Government
+Transitions: Mexico Under the PRI Regime**
 
 <details>
 <summary>
 Abstract:
 </summary>
 <p>
-Abstract TBD
+The theory of political transitions tells us that limited losses for
+losers contributes to the likelihood of a peaceful translation. Are
+losses for losers indeed limited in authoritarian cases with a large
+number of peaceful transitions of power. In this paper we study the case
+of Mexico under the PRI regime, which experienced a remarkable (for an
+authoritarian setting) seventy year sequence of peaceful sexennial
+transitions of power. Not a single transition was violently contested.
+With a comparison of close winners and losers we find, in line with
+theory, that the gains from a network connection to the winner (the
+candidate who receives the “dedazo”) were both small and short lived.
 </p>
 </details>
 <hr>
