@@ -86,6 +86,36 @@ to party cues are more policy-driven than extant research recognizes.
 </p>
 </details>
 <hr>
+Thursday 05 November 2026 | Seminar Room 3
+<p>
+<strong><a href='https://lsa.umich.edu/polisci/people/faculty/cshipan.html'>Charles
+Shipan</a></strong>
+</p>
+
+**Policy Diffusion in the Administrative State**
+
+<details>
+<summary>
+Abstract:
+</summary>
+<p>
+Government agencies exercise substantial public authority, yet agency
+creation of policy generally occurs outside of the public’s view. We
+consider one way that agencies may generate policies: by drawing on the
+actions of other agencies within the government. Utilizing theoretical
+concepts from the policy diffusion literature, we outline a series of
+mechanisms by which policies might diffuse from one agency to another.
+We then test our arguments using data on regulatory paragraphs written
+in US federal agencies from 2001 to 2020. Our results show that agencies
+copy regulatory language when they have low policymaking capacity, when
+a peer agency is particularly innovative, when they are embedded in a
+similar network with another agency, and when the president has made an
+issue more salient. Our findings provide new insights into agency
+policymaking, while also identifying a new frontier for scholars of
+policy diffusion.
+</p>
+</details>
+<hr>
 Thursday 12 November 2026 | Seminar Room 2
 <p>
 <strong><a href='https://www.agustinapaglayan.com/'>Agustina
